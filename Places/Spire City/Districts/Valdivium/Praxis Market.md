@@ -1,0 +1,3 @@
+The largest market in [[Spire City]], it's a cornerstone of [[Valdivium]] and fiercely protected by residents, despite bordering [[East Gate]].  Originally named [[Prastic Market]] after its financier, [[D'Arnough Prastic]], the name started to change following his death only a couple years after its creation.  This may have been intentional, as he wasn't well liked.
+
+This open-air market spans a massive area in the city, easily holding several thousand people at one time.  Vendors set up stands and booths within the guidelines set by the [[Harvest Moon Guild]], which has assumed the administration of the market place.  

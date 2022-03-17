@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "spire-city-map",
-      "lastAccessed": 1647538345465,
+      "lastAccessed": 1647538844997,
       "markers": [
         {
           "id": "ID_881b8ba9e83b",
@@ -261,6 +261,7 @@
             31.3582763671875,
             15.33524460452142
           ],
+          "link": "Praxis Market",
           "layer": "%5B%5Bcity-map-districts.png%5D%5D",
           "mutable": true,
           "command": false,
