@@ -1,0 +1,8 @@
+# Overview
+
+The most common entry point into [[Spire City]] is through Valdivium.  As the city continued to develop, and especially after the first defensive walls were erected, Valdivium continued to be a commercial and tourist hub.  As it fell into this role, large markets, inns, taverns, restaurants, and shops of all sorts began appearing in this section.  There are residents living in Valdivium, but nearly all of them run shops and businesses in that section of the city, making Valdivium an island of a community within the larger city proper.  Many workers will commute from [[Old Towne]], [[The Boroughs]], and [[East Gate]] to work there, making it the commercial powerhouse of the city.  It's become so important, the [[Customs House]] was moved there from [[Maudram]] to be closer to [[Riverside]]. 
+
+# History
+Valdivium didn't exist properly until after the walls were built.  Originally the main road into the city had Valdivium on the east side and [[Old Towne]] on the west, but as the influence of the businesses grew so did the size of that district.  At this point, [[Old Towne]] has shrunk to be the second smallest district in [[Spire City]].  This migration westward is often what is attributed to the general rotation of districts in the city, seeing [[East Gate]] no longer centered in the eastern gate and [[North Ward]] covering both the northern and eastern gates.   In truth, these two matters are distinct, and the movement of [[East Gate]] and [[North Ward]] are caused by the expansion of [[Maudram]].
+
+The success of Valdivium comes from two things:
