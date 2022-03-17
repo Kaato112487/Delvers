@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas/Foolish Foe.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Foolish Foe.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "0c9da70d8e9b6a9c",
   "lastOpenFiles": [
+    "README.md",
     "Ideas/Foolish Foe.md",
     "Characters/Spire City/Businesses/Garrigan Trading Company/Kelsi Garrigan.md",
     "Ideas/Force Pillar Fight.md",
@@ -115,7 +116,6 @@
     "Beastiary/Homebrew/Face Collector.md",
     "Ideas/Enemy Ideas.md",
     "Ideas/Class Skills.md",
-    "Story/Prologue/Hooks.md",
-    "Story/Prologue/Gathering.md"
+    "Story/Prologue/Hooks.md"
   ]
 }
