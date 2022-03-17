@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Places/Spire City/Spire City.md",
+            "file": "Places/Spire City/Districts/Valdivium/Valdivium.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Spire City/Spire City.md",
+                "file": "Places/Spire City/Districts/Valdivium/Valdivium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
+    "Places/Spire City/Districts/Valdivium/Valdivium.md",
+    "Places/Spire City/Districts/The Boroughs/The Boroughs.md",
+    "Places/Spire City/Districts/Riverside/Riverside.md",
     "Places/Spire City/Spire City.md",
     "Places/Spire City/Districts/Daleview/Sewage Pond.md",
-    "Places/Spire City/Districts/Riverside/Riverside.md",
-    "Places/Spire City/Districts/The Boroughs/The Boroughs.md",
     "Places/Spire City/Guilds and Companies/Harvest Moon Guild.md",
     "Assets/Maps/Spire City/city-map-districts.png",
     "Places/Spire City/Districts/Highwatch/Garrigan Family Estate.md",
     "Characters/Spire City/Businesses/Garrigan Trading Company/Kelsi Garrigan.md",
-    "Places/Spire City/Guilds and Companies/Garrigan Trading Company.md",
-    "Characters/Spire City/Businesses/Garrigan Trading Company/Victor Garrigan.md"
+    "Places/Spire City/Guilds and Companies/Garrigan Trading Company.md"
   ]
 }
