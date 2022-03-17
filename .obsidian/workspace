@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0c9da70d8e9b6a9c",
+        "id": "923a56fd4f8b956c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -105,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c9da70d8e9b6a9c",
+  "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
     "Places/Spire City/Spire City.md",
+    "Places/Spire City/Districts/Daleview/Sewage Pond.md",
+    "Places/Spire City/Districts/Riverside/Riverside.md",
+    "Places/Spire City/Districts/The Boroughs/The Boroughs.md",
+    "Places/Spire City/Guilds and Companies/Harvest Moon Guild.md",
     "Assets/Maps/Spire City/city-map-districts.png",
     "Places/Spire City/Districts/Highwatch/Garrigan Family Estate.md",
     "Characters/Spire City/Businesses/Garrigan Trading Company/Kelsi Garrigan.md",
     "Places/Spire City/Guilds and Companies/Garrigan Trading Company.md",
-    "Characters/Spire City/Businesses/Garrigan Trading Company/Victor Garrigan.md",
-    "Characters/Spire City/Businesses/Garrigan Trading Company/Garrigan Family.md",
-    "Maxwell Garrigan.md",
-    "README.md",
-    "Ideas/Foolish Foe.md"
+    "Characters/Spire City/Businesses/Garrigan Trading Company/Victor Garrigan.md"
   ]
 }
