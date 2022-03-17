@@ -1,4 +1,7 @@
 ## Overview
+
+^41b442
+
 Eldest child of the [[Garrigan Family]], Kelsi had a strong business savvy from a young age.  Her father, [[Maxwell Garrigan]], had inherited the already successful company and would often entertain guests at their [[Garrigan Family Estate|villa]] within the city.  At the various events, parties, balls, and galas, that her family sponsored, Kelsi quickly became the talk of the city.  By 16 she had a half-dozen would be husbands vying for her attentions, by 20 she'd taken controlling shares in their companies and driven them out, and by 26 she had assumed leadership of the company from her father, who had passed suddenly.  Charming, ruthless, and effable, there are always whispers of misdeed surrounding Kelsi, but never any evidence, and her public persona is often too magestic that it actually arouses more suspicion.  32 years old, she now sits as matriarch of the family following her mother's death.
 
 ## Stats

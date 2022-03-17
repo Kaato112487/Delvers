@@ -4,5 +4,6 @@
   "attachmentFolderPath": "Assets",
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "spellcheck": true
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Spire City/Businesses/Garrigan Trading Company/Garrigan Family.md",
+            "file": "Characters/Spire City/Businesses/Garrigan Trading Company/Victor Garrigan.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Spire City/Businesses/Garrigan Trading Company/Garrigan Family.md",
+                "file": "Characters/Spire City/Businesses/Garrigan Trading Company/Victor Garrigan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "0c9da70d8e9b6a9c",
   "lastOpenFiles": [
-    "Characters/Spire City/Businesses/Garrigan Trading Company/Garrigan Family.md",
+    "Characters/Spire City/Businesses/Garrigan Trading Company/Victor Garrigan.md",
     "Characters/Spire City/Businesses/Garrigan Trading Company/Kelsi Garrigan.md",
+    "Characters/Spire City/Businesses/Garrigan Trading Company/Garrigan Family.md",
+    "Maxwell Garrigan.md",
     "Places/Spire City/Guilds and Companies/Garrigan Trading Company.md",
     "README.md",
     "Ideas/Foolish Foe.md",
     "Ideas/Force Pillar Fight.md",
     "Beastiary/Homebrew/Hydra?.md",
-    "Beastiary/Homebrew/Flat Worm.md",
-    "Beastiary/Homebrew/Face Collector.md",
-    "Ideas/Enemy Ideas.md"
+    "Beastiary/Homebrew/Flat Worm.md"
   ]
 }
