@@ -1,0 +1,1 @@
+The Harvest Moon is the guild devoted to cooks, bakers, farmers, and all others of the food service profession.  They are the largest guild of their industry in the city.

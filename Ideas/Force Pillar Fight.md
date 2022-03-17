@@ -1,0 +1,1 @@
+In a large room, there is a single pillar in the middle.  This pillar is surrounding by a spherical Wall of Force.  At the start of each round, it rotates 45 degrees and shoots 4 new walls of force.  It's not actively rotating, it's creating new walls each time.  If a creature is in the path of a wall, the DM flips a coin to decide which side they end up on.

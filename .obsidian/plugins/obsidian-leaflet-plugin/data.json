@@ -1,0 +1,225 @@
+{
+  "mapMarkers": [
+    {
+      "id": "spire-city-map",
+      "lastAccessed": 1644983074358,
+      "markers": [
+        {
+          "id": "ID_38094bd96858",
+          "type": "default",
+          "loc": [
+            -1.6649169921875,
+            0.6865813547042059
+          ],
+          "layer": "%5B%5Bcity-map-districts.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9ca1a28395b",
+          "type": "default",
+          "loc": [
+            -1.4539794921875,
+            0.7256550304377312
+          ],
+          "layer": "%5B%5Bcity-map-districts.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3979cae9b8ea",
+          "type": "default",
+          "loc": [
+            -1.449432373046875,
+            1.0643114725775646
+          ],
+          "layer": "%5B%5Bcity-map-districts.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9e819f90bc9",
+          "type": "default",
+          "loc": [
+            -1.506072998046875,
+            0.483090546041373
+          ],
+          "layer": "%5B%5Bcity-map-districts.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a09ca1bdbfb",
+          "type": "default",
+          "loc": [
+            -1.393768310546875,
+            1.0555198955375213
+          ],
+          "layer": "%5B%5Bcity-map-districts.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49899918298a",
+          "type": "default",
+          "loc": [
+            -1.366424560546875,
+            0.6462231422288419
+          ],
+          "layer": "%5B%5Bcity-map-districts.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b8a384919d9",
+          "type": "default",
+          "loc": [
+            90.390625,
+            185.88427304419702
+          ],
+          "layer": "%5B%5Bcity-map-districts.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca794b6b49d8",
+          "type": "default",
+          "loc": [
+            107.390625,
+            350.93147934260855
+          ],
+          "layer": "%5B%5Bcity-map-districts.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa6b69bac858",
+          "type": "default",
+          "loc": [
+            31.880859375,
+            13.947264507426647
+          ],
+          "layer": "%5B%5Bcity-map-districts.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            6.9736322537133235,
+            -10.088380716934488
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f85b880aba38",
+          "type": "default",
+          "loc": [
+            38.47265625,
+            -62.42245663484259
+          ],
+          "layer": "%5B%5Bcity-map-districts.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [
+        {
+          "radius": 0.3111664919101296,
+          "loc": [
+            -1.415252685546875,
+            0.6501305098021944
+          ],
+          "color": "blue",
+          "layer": "%5B%5Bcity-map-districts.png%5D%5D",
+          "unit": "meters",
+          "desc": "",
+          "mutable": true,
+          "marker": null
+        }
+      ],
+      "shapes": [],
+      "files": [
+        "Places/Spire City/Spire City.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "4.13.0",
+  "version": {
+    "major": 4,
+    "minor": 13,
+    "patch": 0
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+}

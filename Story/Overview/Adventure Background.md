@@ -1,0 +1,13 @@
+# Delvers of the Spire
+
+Several hundred years ago, the time is not exactly recorded anymore, a large, earthen spire jutted from the ground where none had once stood.  It’s height, impossibly tall for the area it occupied, looming over the dale from which it erupted.  Those who discovered it found oddities indescribable in the region.  The river which flows near it flows toward it, despite the fact that the point is the highest area in the dale, and where the waters meet they simply vanish into each other.  No splashing or collision of waves, and any object contained within experiences an unusual sensation from the opposing currents, but remains stationary.
+
+Near the spire, magic seems to misbehave.  Sometimes spells misfire or have unexpected results, in other cases the user may find themselves struggling to form even the most basic of conjurations.  The effects aren’t entirely random in location, but their cause in each area is yet unknown.
+
+Yet most fascinating of all is the natural formations on and within the spire.  Rare minerals are not the only thing found within the earth here, as sometimes artifacts have naturally grown from the ground.  An excavator may dig and find a partially formed ring which, if allowed to continue growing, would someday become a magnificent piece of jewelry.  Others have found components from dragon scales to trolls teeth.  One lucky miner happened upon, without damaging it, a Wizard’s spellbook and cipher, perfectly intact.  Yet not all that forms within the ground here is so fortunate, as various strange and dangerous creatures may sometimes emerge from the depths.
+
+Treasure seekers continued to delve deeper, finding rooms which look constructed and whose volume cannot reasonably fit within the spire.  A dwarf once climbed a great distance up the spire, where the area was narrow, and attempted to carve a path directly through to the other side.  Though the distance should have been only a few hundred feet, he travelled several miles and never broke through.
+
+The spire caves earned a reputation of being labyrinthian, and the stories of wealth and glory drew in the eager from across the world.  A rather sizable city formed around the earthen tower, and those that would head into the caves became known as Delvers.
+
+What is the origin of this spire, and can such a presence truly remain stable in this world, both magically and politically?

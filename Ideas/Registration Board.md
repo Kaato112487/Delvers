@@ -1,0 +1,1 @@
+To keep track of the groups inside the cave, and make it easier to proclaim them missing, presumed dead, or known dead, all entries must register and have their likeness and personal information added to the board.  The board is divided into two groups, adventurers and workers, where locating workers is given higher priority.

@@ -1,0 +1,1 @@
+A puzzle where a wall isn't visible in the mirror, but you can only pass through it while looking at yourself do it in the mirror.  Blind characters may be pulled through by sighted characters, and characters with True Sight may pass unobstructed.  For everyone else, the wall is solid.

@@ -1,0 +1,1 @@
+A simple farming community of the descendants of adventurers who got lost in the cave and stuck in this subworld.  Because time doesn't always work the same inside the cave, the adventuring party only entered a few weeks ago.  Are you tasked with finding them, or continuing their mission?  Maybe they're just a whispered rumor that can be found in the city.

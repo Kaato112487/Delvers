@@ -1,0 +1,10 @@
+div.monster-block {
+	background-color: #f2e4c0;
+	color: #333;
+	box-shadow: 0px 0px 5px 0px #000000
+}
+
+.monster-block h2 {
+	color: #633;
+	margin: 0;
+}

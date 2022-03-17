@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "03778aaf2131ae57",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c9da70d8e9b6a9c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ideas/Foolish Foe.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db0a0557f9d0eb86",
+    "type": "split",
+    "children": [
+      {
+        "id": "1882365e2c4ca861",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cddaee3c21645a11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b75316f820322d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#SpireCity",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4177082efb724e17",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca38f83b4a43bb97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb6f9a38b798052b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ideas/Foolish Foe.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34e0de53e7f67cd8",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "c64df8871360ae2f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0c9da70d8e9b6a9c",
+  "lastOpenFiles": [
+    "Ideas/Foolish Foe.md",
+    "Characters/Spire City/Businesses/Garrigan Trading Company/Kelsi Garrigan.md",
+    "Ideas/Force Pillar Fight.md",
+    "Beastiary/Homebrew/Hydra?.md",
+    "Beastiary/Homebrew/Flat Worm.md",
+    "Beastiary/Homebrew/Face Collector.md",
+    "Ideas/Enemy Ideas.md",
+    "Ideas/Class Skills.md",
+    "Story/Prologue/Hooks.md",
+    "Story/Prologue/Gathering.md"
+  ]
+}

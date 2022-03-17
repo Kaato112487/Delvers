@@ -1,0 +1,5 @@
+Spaces within the cave can be reconstructed, or destructed in some cases, back to as they would be within a reasonable structure.  This will cause certain areas to become inaccessible, which residents of the city may not like, but might open access to other areas.
+
+This is actually refactoring and stabilizing the magic within the caves.  If done, the area will lose its benefits, becoming little more than a normal section of cave, even if a town once stood there.  What this means will differ from section to section of the cave, as it could mean destroying or sealing an entire world that was created within the interior space.  In other cases, the space is returned to its proper location within its own world, as it might have been ripped from another time or reality.
+
+As reality is rebuilt within the cave, the path to the sorcerer becomes more direct, but the barriers on him weaken.  However, it means that should he escape, he has fewer places in which to retreat.

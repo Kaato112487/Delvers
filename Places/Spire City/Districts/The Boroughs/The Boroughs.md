@@ -1,0 +1,1 @@
+A residential area of the city
