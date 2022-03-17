@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Spire City/Businesses/Garrigan Trading Company/Victor Garrigan.md",
+            "file": "Places/Spire City/Spire City.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SpireCity",
+                "query": "Racheal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Spire City/Businesses/Garrigan Trading Company/Victor Garrigan.md",
+                "file": "Places/Spire City/Spire City.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "0c9da70d8e9b6a9c",
   "lastOpenFiles": [
-    "Characters/Spire City/Businesses/Garrigan Trading Company/Victor Garrigan.md",
+    "Places/Spire City/Spire City.md",
+    "Assets/Maps/Spire City/city-map-districts.png",
+    "Places/Spire City/Districts/Highwatch/Garrigan Family Estate.md",
     "Characters/Spire City/Businesses/Garrigan Trading Company/Kelsi Garrigan.md",
+    "Places/Spire City/Guilds and Companies/Garrigan Trading Company.md",
+    "Characters/Spire City/Businesses/Garrigan Trading Company/Victor Garrigan.md",
     "Characters/Spire City/Businesses/Garrigan Trading Company/Garrigan Family.md",
     "Maxwell Garrigan.md",
-    "Places/Spire City/Guilds and Companies/Garrigan Trading Company.md",
     "README.md",
-    "Ideas/Foolish Foe.md",
-    "Ideas/Force Pillar Fight.md",
-    "Beastiary/Homebrew/Hydra?.md",
-    "Beastiary/Homebrew/Flat Worm.md"
+    "Ideas/Foolish Foe.md"
   ]
 }

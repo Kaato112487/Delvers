@@ -49,7 +49,7 @@ bounds:
  - [0, 0]
  - [50, 30]
 coordinates: [30, 15]
-height: 500px
+height: 1000px
 unit: meters
 scale: 100
 noUI: false
