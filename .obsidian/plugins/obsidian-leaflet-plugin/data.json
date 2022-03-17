@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "spire-city-map",
-      "lastAccessed": 1647540064298,
+      "lastAccessed": 1647540169220,
       "markers": [
         {
           "id": "ID_881b8ba9e83b",
@@ -62,6 +62,7 @@
             42.482177734375,
             12.558803067349771
           ],
+          "link": "Daleview",
           "layer": "%5B%5Bcity-map-districts.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -78,6 +79,7 @@
             36.716552734375,
             10.79267292419442
           ],
+          "link": "Maudram",
           "layer": "%5B%5Bcity-map-districts.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -91,14 +93,17 @@
           "id": "ID_cafbe92bba38",
           "type": "District",
           "loc": [
-            19.029052734375,
-            14.589181360134784
+            20.890625,
+            16.68877538071066
           ],
           "link": "Riverside",
           "layer": "%5B%5Bcity-map-districts.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            8.34438769035533,
+            -6.610630407911001
+          ],
           "description": null,
           "minZoom": 0,
           "maxZoom": 6,
@@ -148,6 +153,7 @@
             31.65185546875,
             9.085462076017503
           ],
+          "link": "The Boroughs",
           "layer": "%5B%5Bcity-map-districts.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -164,6 +170,7 @@
             31.52685546875,
             17.74418861856675
           ],
+          "link": "East Gate",
           "layer": "%5B%5Bcity-map-districts.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -180,6 +187,7 @@
             36.65185546875,
             17.150268747417165
           ],
+          "link": "North Ward",
           "layer": "%5B%5Bcity-map-districts.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -193,13 +201,17 @@
           "id": "ID_a85b792b8bf8",
           "type": "District",
           "loc": [
-            32.37060546875,
-            11.242328976508112
+            32.640625,
+            11.50015228426396
           ],
+          "link": "Highwatch",
           "layer": "%5B%5Bcity-map-districts.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            5.75007614213198,
+            -10.328800988875155
+          ],
           "description": null,
           "minZoom": 0,
           "maxZoom": 6,
@@ -212,6 +224,7 @@
             27.78125,
             7.703147351467052
           ],
+          "link": "Ghost Town",
           "layer": "%5B%5Bcity-map-districts.png%5D%5D",
           "mutable": true,
           "command": false,

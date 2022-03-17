@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Spire City/Spire City.md",
+                "file": "Places/Spire City/Districts/Valdivium/Valdivium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,10 +118,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85603a629f914ec4",
+  "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
-    "Places/Spire City/Spire City.md",
     "Places/Spire City/Districts/Valdivium/Valdivium.md",
+    "Places/Spire City/Spire City.md",
     "Places/Spire City/Districts/Valdivium/Praxis Market.md",
     "Places/Spire City/Districts/Valdivium/Customs House.md",
     "Places/Spire City/Districts/The Boroughs/The Boroughs.md",
