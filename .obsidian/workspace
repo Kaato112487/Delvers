@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Places/Spire City/Districts/Valdivium/Praxis Market.md",
+            "file": "Places/Spire City/Districts/Valdivium/Valdivium.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Spire City/Districts/Valdivium/Praxis Market.md",
+                "file": "Places/Spire City/Districts/Valdivium/Valdivium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,9 +120,9 @@
   },
   "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
-    "Places/Spire City/Districts/Valdivium/Praxis Market.md",
     "Places/Spire City/Districts/Valdivium/Valdivium.md",
     "Places/Spire City/Spire City.md",
+    "Places/Spire City/Districts/Valdivium/Praxis Market.md",
     "Places/Spire City/Districts/Valdivium/Customs House.md",
     "Places/Spire City/Districts/The Boroughs/The Boroughs.md",
     "Places/Spire City/Districts/Riverside/Riverside.md",

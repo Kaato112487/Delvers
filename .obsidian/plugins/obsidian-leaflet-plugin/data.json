@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "spire-city-map",
-      "lastAccessed": 1647538844997,
+      "lastAccessed": 1647539973084,
       "markers": [
         {
           "id": "ID_881b8ba9e83b",
@@ -373,6 +373,23 @@
           "description": null,
           "minZoom": null,
           "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0ac828aa4a7b",
+          "type": "Detailed POI",
+          "loc": [
+            29.568359375,
+            13.725846288071066
+          ],
+          "link": "Garrigan Trading Company",
+          "layer": "%5B%5Bcity-map-districts.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 7,
+          "maxZoom": 10,
           "tooltip": "hover"
         }
       ],
