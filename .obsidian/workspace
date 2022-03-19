@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Places/Spire City/Districts/Valdivium/Valdivium.md",
+            "file": "Ideas/Obscuring Mist.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Spire City/Districts/Valdivium/Valdivium.md",
+                "file": "Ideas/Obscuring Mist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
+    "Ideas/Obscuring Mist.md",
     "Places/Spire City/Districts/Valdivium/Valdivium.md",
     "Places/Spire City/Spire City.md",
     "Places/Spire City/Districts/Valdivium/Praxis Market.md",
@@ -128,7 +129,6 @@
     "Places/Spire City/Districts/Riverside/Riverside.md",
     "Places/Spire City/Districts/Daleview/Sewage Pond.md",
     "Places/Spire City/Guilds and Companies/Harvest Moon Guild.md",
-    "Assets/Maps/Spire City/city-map-districts.png",
-    "Places/Spire City/Districts/Highwatch/Garrigan Family Estate.md"
+    "Assets/Maps/Spire City/city-map-districts.png"
   ]
 }

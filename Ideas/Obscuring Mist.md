@@ -1,0 +1,1 @@
+A room where heavy mist is constantly being blown in, magically, by an artifact on the wall.  Dispelling it will remove the mist for only a single turn.  Accomplish this in roll 20 by having
