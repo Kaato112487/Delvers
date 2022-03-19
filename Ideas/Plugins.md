@@ -3,3 +3,4 @@ Admonition
 Dice Roller
 Leaflet Plugin
 Table Editor
+Obisidan Git
