@@ -2,7 +2,7 @@
 ```statblock
 columns: 2
 image: [[Beastiary/Homebrew/Icon/facecollector.jpeg]]
-name: Hydra?
+name: Hydranaught
 size: Large
 type: monstrosity
 alignment: neutral
