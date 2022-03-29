@@ -6,10 +6,11 @@
       {
         "id": "923a56fd4f8b956c",
         "type": "leaf",
+        "dimension": 51.34615384615384,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Beastiary/Homebrew/Stone Twins.md",
+            "file": "Beastiary/Homebrew/Stone Twin.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -19,6 +20,7 @@
       {
         "id": "85603a629f914ec4",
         "type": "leaf",
+        "dimension": 48.65384615384615,
         "state": {
           "type": "markdown",
           "state": {
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beastiary/Homebrew/Stone Twins.md",
+                "file": "Beastiary/Homebrew/Stone Twin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +122,15 @@
   },
   "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
-    "Beastiary/Homebrew/Stone Twins.md",
+    "Beastiary/Homebrew/Stone Twin.md",
+    "Beastiary/Homebrew/Hydranaught.md",
+    "Beastiary/Homebrew/Face Collector.md",
+    "Beastiary/Homebrew/Flat Worm.md",
     "Places/Spire City/Districts/Valdivium/Valdivium.md",
     "Places/Spire City/Spire City.md",
     "Places/Spire City/Districts/Valdivium/Praxis Market.md",
     "Places/Spire City/Districts/Valdivium/Customs House.md",
     "Places/Spire City/Districts/The Boroughs/The Boroughs.md",
-    "Places/Spire City/Districts/Riverside/Riverside.md",
-    "Places/Spire City/Districts/Daleview/Sewage Pond.md",
-    "Places/Spire City/Guilds and Companies/Harvest Moon Guild.md",
-    "Assets/Maps/Spire City/city-map-districts.png"
+    "Places/Spire City/Districts/Riverside/Riverside.md"
   ]
 }
