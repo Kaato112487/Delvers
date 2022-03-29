@@ -7,9 +7,9 @@ size: Medium
 type: construct
 subtype: (shapechanger)
 alignment: neutral
-ac: 15
+ac: 15 (Natural Armor)
 hit_dice: 10d8+25
-speed: 30ft
+speed: 30ft.
 stats: [18, 12, 14, 6, 10, 6]
 senses: passive Perception 12
 damage_immunities: Poison
@@ -25,10 +25,10 @@ traits:
  - name: Pair Bonding
    desc: The Stone Twin is permanently bonded with another Stone Twin.  Damage taken by either is divided equally between them, rounded down.  If either Stone Twin dies, the other does, too.
  - name: Weapon Form
-   desc: If within 5 feet of its paired Stone Twin, the Stone Twin may use its turn to transform itself into either a Sword, Spear, Hammer, or Bow, and immediately equip that weapon to its paired Stone Twin.  This weapon cannot be disarmed or dropped.  At the start of its turn, the Stone Twin may choose to revert to its normal form as a Free Action.
+   desc: If within 5 feet of its paired Stone Twin, the Stone Twin may use its Action and end its turn to transform itself into either a Sword, Spear, Hammer, or Bow, and immediately equip that weapon to its paired Stone Twin.  This weapon cannot be disarmed or dropped.  At the start of its turn, the Stone Twin may choose to revert to its normal form as a Free Action.
 actions:
  - name: Multiattack
-   desc: The golem makes two attacks.
+   desc: The Stone Twin makes two attacks.
  - name: Slam
    desc: "Melee Weapon Attack: +6 to hit, reach 5ft., one target.  Hit: 10 (2d6+3) bludgeoning damage."
  - name: "Weapon Strike (Sword)"
