@@ -8,6 +8,7 @@ type: construct
 subtype: (shapechanger)
 alignment: neutral
 ac: 15 (Natural Armor)
+hp: 70
 hit_dice: 10d8+25
 speed: 30ft.
 stats: [18, 12, 14, 6, 10, 6]
