@@ -17,9 +17,9 @@ languages: None
 cr: 3
 traits:
  - name: Unsettling Visage
-   desc: When surprised or made uncomfortable, such as by being examined too closely, the form taken by the Face Collector's shapechanging will begint o revert, yielding an appearance somewhere between the two forms.
+   desc: When surprised or made uncomfortable, such as by being examined too closely, the form taken by the Face Collector's shapechanging will begin to revert, yielding an appearance somewhere between the two forms.
  - name: Mimicry
-   desc: The greater amont of time the Face Collector retains a form and mimics the actions of a creature, the more it adapts itself into the creature.  If the Face Collector retains a form for more than 10 days, it will fully adop the thoughts, behaviors, and language of the creature, adding it to a permanent repetoire of forms it has memorized.  Prior to this, the creature can only unsuccessfully attempt to mimic the language.  Once memorized, it will relentlessly seek to kill the creature it mimed.
+   desc: The greater amont of time the Face Collector retains a form and mimics the actions of a creature, the more it adapts itself into the creature.  If the Face Collector retains a form for more than 10 days, it will fully adopt the thoughts, behaviors, and language of the creature, adding it to a permanent repetoire of forms it has memorized.  Prior to this, the creature can only unsuccessfully attempt to mimic the language.  Once memorized, it will relentlessly seek to kill the creature it mimed.
 actions:
  - name: Grasp
    desc: "Melee Weapon Attack: +1 to hit, reach 5ft., one target.  Hit: 5 (1d6+2) bludgeoning damage.  Upon a successful hit, the target is grappled"
