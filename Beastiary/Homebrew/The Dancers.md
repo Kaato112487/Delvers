@@ -9,7 +9,7 @@ alignment: neutral
 ac: 13 (Natural Armor)
 hp: 50
 hit_dice: 8d8+14
-speed: 40ft.
+speed: 25ft.
 stats: [13, 18, 14, 14, 15, 16]
 senses: passive Perception 16
 damage_immunities: 
@@ -18,8 +18,10 @@ condition_immunities: Charmed, Exhaustion
 languages: None
 cr: 2
 traits:
+ - name: Waltz
+   desc: Each time the dancers change their direction of movement after travelling at least 10 feet in a straight line, they regain 5 feet of movement.
  - name: Dancing Step
-   desc: As the pair moves as one, they gracefully spin around opponents on the battlefield.  They may disengage once per turn as a Free Action if there are no more than 2 other creatures within 5 feet.
+   desc: As the pair moves as one, they gracefully spin around opponents on the battlefield.  They may disengage once per turn as a Free Action if there are no more than 2 other creatures within 5 feet and they are not on difficult terrain.
  - name: Sword and Shield
    desc: The dancers each wield only a single item, one a sword and the other a shield.  The dancers receive a + 5 to AC when attacked from the back or sides.
  - name: Pirouette
