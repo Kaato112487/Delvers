@@ -61,7 +61,7 @@ traits:
 ## Paladin - Lightbringer
 Gain proficiency in Persuasion and add an additional +3 to all rolls for Persuasion.  A favorable status within society means you will immediately have good standing and more clout in any town or city you visit where you're known or recognized as a Paladin.  It's not unusual for lords and nobles to offer you food, lodging, work, or information as they attempt to curry favor with you.
 
-You know Charm Person and may cast it without using a spell slot when targetting non-hostile creatures.  You know Compelled Duel and may cast it without using a spell slot.  Gain +2 to attack rolls against Undead creatures.  Gain +2 to attack rolls against Frightened creatures.
+You know Charm Person and may cast it without using a spell slot when targeting non-hostile creatures.  You know Compelled Duel and may cast it without using a spell slot.  Gain +2 to attack rolls against Undead creatures.  Gain +2 to attack rolls against Frightened creatures.
 
 ## Ranger - Wilderness Training
 Rangers all know True Strike and Speak with Animals, and they don’t count against their known spells.  At 5th level, the ranger may cast True Strike as a reaction to being targeted with an attack.  At 11th level, the ranger may cast True Strike as a Bonus Action against any target that they did not attack this turn.
