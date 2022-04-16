@@ -1,0 +1,1 @@
+A certain fruit is required to pass (maybe it's a creature demanding it of you).  Conveniently, there's a community you've encountered before that, depending on where you enter it, you end up at a different point in time, some decades apart.  Plant the seed in the past to get the fruit in the future.
