@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas/Stairs to Nowhere.md",
+            "file": "Ideas/Class Skills.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Stairs to Nowhere.md",
+                "file": "Ideas/Class Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,20 +102,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
-    "Ideas/Stairs to Nowhere.md",
-    "Beastiary/Homebrew/Flat Worm.md",
-    "Beastiary/Homebrew/Face Collector.md",
-    "Beastiary/Homebrew/The Dancers.md",
-    "Beastiary/Homebrew/Stone Twin.md",
-    "Beastiary/Homebrew/Hydranaught.md",
-    "Places/Spire City/Districts/Valdivium/Valdivium.md",
+    "Ideas/Class Skills.md",
+    "Ideas/Plugins.md",
+    "Ideas/Obscuring Mist.md",
     "Places/Spire City/Spire City.md",
+    "Places/Spire City/Districts/Valdivium/Valdivium.md",
     "Places/Spire City/Districts/Valdivium/Praxis Market.md",
-    "Places/Spire City/Districts/Valdivium/Customs House.md"
+    "Places/Spire City/Districts/Valdivium/Customs House.md",
+    "Places/Spire City/Districts/The Boroughs/The Boroughs.md",
+    "Places/Spire City/Districts/Riverside/Riverside.md",
+    "Places/Spire City/Districts/Daleview/Sewage Pond.md"
   ]
 }

@@ -40,6 +40,24 @@ All fighters at level 1 and 11 get to select a Signature Move, which may only be
 ## Monk - Unlock Limits
 As your action, perform all possible unarmed attacks, including Extra Attack and Martial Arts, that do not require spending ki points targeting yourself.  After taking damage from these attacks, increase your movement speed by 10ft, AC by 1, and gain an additional Extra Attack for 1 minute.  You may not use this feature again until after a long rest.
 
+## Monk (Alternative) - Martial Techniques
+Gain the following martial techniques as your level increases:
+```statblock
+traits:
+ - name: Lightning Step (3rd Level)
+   desc: Expend 1 Ki Point to move 10 feet without provoking Opportunity Attacks.
+ - name: Soul Strike (6th Level)
+   desc: Upon hitting with an Unarmed attack or a Monk weapon, expend 1 Ki Point to deal an additional 1d8 Psychic damage
+ - name: Wind Step (9th Level)
+   desc: Expend 1 Ki Point to move 10 feet in any direction, even if not currently on the ground.
+ - name: Wave Projection Fist (12th Level)
+   desc: Expend 2 Ki points to increase your Unarmed attack reach by 25ft until the start of your next turn.
+ - name: Ki Guard (15th Level)
+   desc: As a Reaction to being targeted with an attack, you may expend 1 Ki Point to increase your AC by 2 until the start of your next turn.
+ - name: Martial Domain (18th Level)
+   desc: As a Bonus Action, expend 4 Ki Points to create a Martial Domain with a radius of 20ft centered on your current location.  While inside this domain, you gain advantage on Unarmed attacks and attacks with a Monk weapon.  The domain lasts for 60 seconds and may be ended early as a Free Action.  When the domain ends, it collapses on itself to deal 1d8 Force damage to all creatures within, except you.
+```
+
 ## Paladin - Lightbringer
 Gain proficiency in Persuasion and add an additional +3 to all rolls for Persuasion.  A favorable status within society means you will immediately have good standing and more clout in any town or city you visit where you're known or recognized as a Paladin.  It's not unusual for lords and nobles to offer you food, lodging, work, or information as they attempt to curry favor with you.
 
