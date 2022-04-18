@@ -1,1 +1,5 @@
+## Stats
+- Age - 39
+- Race - Human
+
 Proprietor of the [[Seven Knights Tavern]], he’s a stocky man who indulges a bit too much in his own stock.  Not to say that he’s drunk all the time, but that the beer has more influenced his physique and given him a larger midsection than he otherwise would have.  Still, he’s a strong, stern man who has a welcoming smile for any customers willing to spend their coin without causing trouble.  He prefers to roam the room and chat with the clientele than work the bar, so that often falls to others.  Outside of work, he’s actually a [[Wendy Holmes|doting father]] and a [[Ciara Holmes|loving husband]], but his affable nature means that too much of the work gets left to others.  His brother, [[Alek Holmes]], runs the [[Seven Knights Inn]], though the relationship is strained between them.

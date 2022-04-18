@@ -3,5 +3,6 @@ Adopted son of the Garrigan family, he was 13 when [[Maxwell Garrigan]] met him 
 
 ## Stats
 * Age - 30
+* Race - Human
 
 ## Relationships

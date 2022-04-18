@@ -6,6 +6,7 @@ Eldest child of the [[Garrigan Family]], Kelsi had a strong business savvy from 
 
 ## Stats
 - Age - 32
+- Race - Half-elf
 
 ## Relationships
 - [[Maxwell Garrigan]] - Her father and mentor, Kelsi learned everything she knows from him.  Both doting and stern, she was often pressed to meet his high standards, but would be lavished with praise when she did.

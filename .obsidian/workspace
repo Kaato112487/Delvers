@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas/Changeling City.md",
+            "file": "Characters/Spire City/Businesses/Seven Knights Tavern/Julian Cobbers.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,8 +41,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Racheal",
-                "matchingCase": false,
+                "query": "Dragon",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Changeling City.md",
+                "file": "Characters/Spire City/Businesses/Seven Knights Tavern/Julian Cobbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,24 +98,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
-    "Ideas/Changeling City.md",
-    "Ideas/Time Travel Farming.md",
-    "Ideas/Class Skills.md",
-    "Ideas/Plugins.md",
-    "Ideas/Obscuring Mist.md",
-    "Places/Spire City/Spire City.md",
-    "Places/Spire City/Districts/Valdivium/Valdivium.md",
-    "Places/Spire City/Districts/Valdivium/Praxis Market.md",
-    "Places/Spire City/Districts/Valdivium/Customs House.md",
-    "Places/Spire City/Districts/The Boroughs/The Boroughs.md"
+    "Characters/Spire City/Businesses/Seven Knights Tavern/Julian Cobbers.md",
+    "Characters/Spire City/Businesses/Seven Knights Tavern/Ciara Holmes.md",
+    "Characters/Spire City/Businesses/Seven Knights Tavern/Barnaby Holmes.md",
+    "Characters/Spire City/Businesses/Seven Knights Inn/Claire Chisholm.md",
+    "Characters/Spire City/Businesses/Seven Knights Inn/Alek Holmes.md",
+    "Characters/Spire City/Businesses/Garrigan Trading Company/Kelsi Garrigan.md",
+    "Characters/Spire City/Businesses/Garrigan Trading Company/Garrigan Family.md",
+    "Characters/Spire City/Businesses/Garrigan Trading Company/Victor Garrigan.md",
+    "Story/Overview/Overall Story of the Module.md",
+    "Story/Overview/History of the Spire.md"
   ]
 }
