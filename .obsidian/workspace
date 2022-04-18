@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Spire City/Businesses/Seven Knights Tavern/Julian Cobbers.md",
+            "file": "Story/Overview/Overall Story of the Module.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Spire City/Businesses/Seven Knights Tavern/Julian Cobbers.md",
+                "file": "Story/Overview/Overall Story of the Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
+    "Story/Overview/Overall Story of the Module.md",
+    "Characters/Spire City/Businesses/Seven Knights Tavern/Rose Jannison.md",
     "Characters/Spire City/Businesses/Seven Knights Tavern/Julian Cobbers.md",
-    "Characters/Spire City/Businesses/Seven Knights Tavern/Ciara Holmes.md",
+    "Characters/Spire City/Businesses/Seven Knights Tavern/Wendy Holmes.md",
     "Characters/Spire City/Businesses/Seven Knights Tavern/Barnaby Holmes.md",
+    "Characters/Spire City/Businesses/Seven Knights Tavern/Ciara Holmes.md",
     "Characters/Spire City/Businesses/Seven Knights Inn/Claire Chisholm.md",
     "Characters/Spire City/Businesses/Seven Knights Inn/Alek Holmes.md",
     "Characters/Spire City/Businesses/Garrigan Trading Company/Kelsi Garrigan.md",
-    "Characters/Spire City/Businesses/Garrigan Trading Company/Garrigan Family.md",
-    "Characters/Spire City/Businesses/Garrigan Trading Company/Victor Garrigan.md",
-    "Story/Overview/Overall Story of the Module.md",
-    "Story/Overview/History of the Spire.md"
+    "Characters/Spire City/Businesses/Garrigan Trading Company/Garrigan Family.md"
   ]
 }
