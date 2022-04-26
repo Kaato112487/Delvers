@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Story/Overview/Overall Story of the Module.md",
+            "file": "Beastiary/Mimic.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Overview/Overall Story of the Module.md",
+                "file": "Beastiary/Mimic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
+    "Beastiary/Mimic.md",
     "Story/Overview/Overall Story of the Module.md",
     "Characters/Spire City/Businesses/Seven Knights Tavern/Rose Jannison.md",
     "Characters/Spire City/Businesses/Seven Knights Tavern/Julian Cobbers.md",
@@ -115,7 +116,6 @@
     "Characters/Spire City/Businesses/Seven Knights Tavern/Ciara Holmes.md",
     "Characters/Spire City/Businesses/Seven Knights Inn/Claire Chisholm.md",
     "Characters/Spire City/Businesses/Seven Knights Inn/Alek Holmes.md",
-    "Characters/Spire City/Businesses/Garrigan Trading Company/Kelsi Garrigan.md",
-    "Characters/Spire City/Businesses/Garrigan Trading Company/Garrigan Family.md"
+    "Characters/Spire City/Businesses/Garrigan Trading Company/Kelsi Garrigan.md"
   ]
 }

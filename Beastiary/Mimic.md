@@ -1,0 +1,3 @@
+# Thoughts on Mimics
+
+Mimics are obviously able to manifest themselves into complex designs, such as chests, wooden walls, crafted tables, and more.  This means that their ability to camouflage must be akin to shape shifting, and must be much more versatile than most shapeshifters are capable of.  They seem to prefer inorganic or constructed shapes, but they do not copy the properties of the material they appear to be, only the look.
