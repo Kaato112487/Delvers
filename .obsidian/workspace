@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Beastiary/Mimic.md",
+            "file": "Ideas/Illusions.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beastiary/Mimic.md",
+                "file": "Ideas/Illusions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
+    "Ideas/Illusions.md",
     "Beastiary/Mimic.md",
     "Story/Overview/Overall Story of the Module.md",
     "Characters/Spire City/Businesses/Seven Knights Tavern/Rose Jannison.md",
@@ -115,7 +116,6 @@
     "Characters/Spire City/Businesses/Seven Knights Tavern/Barnaby Holmes.md",
     "Characters/Spire City/Businesses/Seven Knights Tavern/Ciara Holmes.md",
     "Characters/Spire City/Businesses/Seven Knights Inn/Claire Chisholm.md",
-    "Characters/Spire City/Businesses/Seven Knights Inn/Alek Holmes.md",
-    "Characters/Spire City/Businesses/Garrigan Trading Company/Kelsi Garrigan.md"
+    "Characters/Spire City/Businesses/Seven Knights Inn/Alek Holmes.md"
   ]
 }
