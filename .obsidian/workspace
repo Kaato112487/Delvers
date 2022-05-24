@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas/Class Skills.md",
+            "file": "Characters/Spire City/Businesses/The Arena/Calre the Mighty.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dragon",
+                "query": "arena",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Class Skills.md",
+                "file": "Characters/Spire City/Businesses/The Arena/Calre the Mighty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
+    "Characters/Spire City/Businesses/The Arena/Calre the Mighty.md",
+    "Beastiary/Homebrew/Face Collector.md",
+    "Story/Chapter 1/Arrival in the City.md",
+    "Places/Spire City/Spire City.md",
     "Ideas/Class Skills.md",
     "Ideas/Illusions.md",
     "Beastiary/Mimic.md",
     "Story/Overview/Overall Story of the Module.md",
     "Characters/Spire City/Businesses/Seven Knights Tavern/Rose Jannison.md",
-    "Characters/Spire City/Businesses/Seven Knights Tavern/Julian Cobbers.md",
-    "Characters/Spire City/Businesses/Seven Knights Tavern/Wendy Holmes.md",
-    "Characters/Spire City/Businesses/Seven Knights Tavern/Barnaby Holmes.md",
-    "Characters/Spire City/Businesses/Seven Knights Tavern/Ciara Holmes.md",
-    "Characters/Spire City/Businesses/Seven Knights Inn/Claire Chisholm.md"
+    "Characters/Spire City/Businesses/Seven Knights Tavern/Julian Cobbers.md"
   ]
 }
