@@ -68,6 +68,9 @@ When the Monk is hit with an attack that would deal Bludgeoning damage, they sto
 ### Brace Stance
 As a reaction to taking damage, you may expend 1 Ki Point to reduce the damage taken by half, but also reduce your movement speed by half during your next turn.  At 15th level, if the attack was a non-spell attack, you may redirect the damage reduced to another valid target within range of the original attack.
 
+### Recoil Burst
+For every 5 points of Kinetic Energy you expend, gain 5 feet of movement this turn.  Movement done in this way does not provoke Opportunity Attacks.
+
 ### Golden Body
 As a bonus action, you may expend 1 Ki Point to emit a golden light from your body for 30 seconds.  You shed bright light for a radius of 15 feet, and dim light for an additional 15 feet.  While emitting that light, your melee attacks deal an additional 1d4 Radiant damage.
 
