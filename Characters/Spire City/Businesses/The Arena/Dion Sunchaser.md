@@ -34,11 +34,11 @@ actions:
  - name: Multiple Attacks
    desc: Dion makes two melee attacks with his Great Axe.
  - name: Claw
-   desc: "Melee Weapon Attack: +9 to hit, reach 5ft., one target.  Hit: 3 (1d4) slashing damage."
+   desc: "Melee Weapon Attack: +9 to hit, reach 5ft., one target.  Hit: 3 (1d6+5) slashing damage."
  - name: Great Axe
-   desc: "Melee Weapon Attack: +9 to hit, reach 5ft., one target.  Hit: 9 (1d12+2) magical slashing damage."
+   desc: "Melee Weapon Attack: +9 to hit, reach 5ft., one target.  Hit: 9 (1d12+7) magical slashing damage."
  - name: Axe Throw
-   desc: "Ranged Weapon Attack: +9 to hit, reach 25ft., one target.  Hit: 9 (1d12+2) magical slashing damage.  Dion will no longer be able to attack with his Great Axe until he retrieves it."
+   desc: "Ranged Weapon Attack: +9 to hit, reach 25ft., one target.  Hit: 9 (1d12+7) magical slashing damage.  Dion will no longer be able to attack with his Great Axe until he retrieves it."
  - name: Daunting Roar
    desc: As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn.  The DC of the save is 18, or 16 if you've previously been affected by Daunting Roar.
 ```

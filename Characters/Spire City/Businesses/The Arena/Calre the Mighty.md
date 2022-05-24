@@ -34,9 +34,9 @@ actions:
  - name: Multiple Attacks
    desc: Calre makes two attacks with her Sabre and two with her Claw
  - name: Sabre
-   desc: "Melee Weapon Attack: +10 to hit, reach 5ft., one target.  Hit: 7 (1d10+1) magical slashing damage."
+   desc: "Melee Weapon Attack: +10 to hit, reach 5ft., one target.  Hit: 7 (1d10+5) magical slashing damage."
  - name: Claw
-   desc: "Melee Weapon Attack: +11 to hit, reach 5ft., one target.  Hit: 4 (1d6) slashing damage"
+   desc: "Melee Weapon Attack: +11 to hit, reach 5ft., one target.  Hit: 4 (1d6+4) slashing damage"
  - name: Daunting Roar
    desc: As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn.  The DC of the save is 18, or 16 if you've previously been affected by Daunting Roar.
 ```
