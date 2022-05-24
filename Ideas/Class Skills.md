@@ -66,7 +66,7 @@ Monks of the Way of the Tempered Body have trained their physical body to withst
 When the Monk is hit with an attack that would deal Bludgeoning damage, they store 2 points of Kinetic Energy.  Additionally, the monk gains points of Kinetic Energy equal to any damage they take from non-spell attacks.  10 points of Kinetic Energy may be used in place of a Ki Point.  At the end of the Monk's turn, they lose all Kinetic Energy.
 
 ### Brace Stance
-As a reaction to taking damage, you may expend 1 Ki Point to reduce the damage taken by half, but also reduce your movement speed by half during your next turn.  At 15th level, if the attack was a non-spell attack, you may redirect the damage reduced to another valid target within range of the original attack.
+As a reaction to taking damage, you may expend 1 Ki Point to reduce the damage taken by half, but also reduce your movement speed by half during your next turn.  At 15th level, if the attack was a non-spell attack, you may choose to roll an unarmed attack and deflect up to that much damage from the resisted amount to another valid target within range of the original attack.
 
 ### Recoil Burst
 For every 5 points of Kinetic Energy you expend, gain 5 feet of movement this turn.  Movement done in this way does not provoke Opportunity Attacks.
