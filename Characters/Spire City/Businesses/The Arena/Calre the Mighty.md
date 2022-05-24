@@ -7,14 +7,14 @@ size: Medium
 type: Leonin
 subtype: Fighter
 alignment: Lawful Good
-ac: 19 (Plate Armor and Shield)
-hp: 40
+ac: 20 (Plate Armor and Shield)
+hp: 163
 hit_dice: 16d10+75
 speed: 35ft
 stats: [18, 16, 20, 10, 12, 18]
 senses: darkvision 60ft., passive Perception 15
 languages: Common, Leonin
-cr: 3
+cr: 13
 traits:
  - name: Action Surge
    desc: On her turn, Calre may take an additional action.  She may only do this once per combat.
