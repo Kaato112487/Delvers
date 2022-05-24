@@ -58,6 +58,19 @@ traits:
    desc: As a Bonus Action, expend 4 Ki Points to create a Martial Domain with a radius of 20ft centered on your current location.  While inside this domain, you gain advantage on Unarmed attacks and attacks with a Monk weapon.  The domain lasts for 60 seconds and may be ended early as a Free Action.  When the domain ends, it collapses on itself to deal 1d8 Force damage to all creatures within, except you.
 ```
 
+## Monk Subclass - Tempered Body
+### Way of the Tempered Body
+Monks of the Way of the Tempered Body have trained their physical body to withstand immense damage without yielding.  This strength and durability have surpassed the limits of normal beings.
+
+### Kinetic Accumulation
+When the Monk is hit with an attack that would deal Bludgeoning damage, they store 2 points of Kinetic Energy.  Additionally, the monk gains points of Kinetic Energy equal to any damage they take from non-spell attacks.  10 points of Kinetic Energy may be used in place of a Ki Point.  At the end of the Monk's turn, they lose all Kinetic Energy.
+
+### Brace Stance
+As a reaction to taking damage, you may expend 1 Ki Point to reduce the damage taken by half, but also reduce your movement speed by half during your next turn.  At 15th level, if the attack was a non-spell attack, you may redirect the damage reduced to another valid target within range of the original attack.
+
+### Golden Body
+As a bonus action, you may expend 1 Ki Point to emit a golden light from your body for 30 seconds.  You shed bright light for a radius of 15 feet, and dim light for an additional 15 feet.  While emitting that light, your melee attacks deal an additional 1d4 Radiant damage.
+
 ## Paladin - Lightbringer
 Gain proficiency in Persuasion and add an additional +3 to all rolls for Persuasion.  A favorable status within society means you will immediately have good standing and more clout in any town or city you visit where you're known or recognized as a Paladin.  It's not unusual for lords and nobles to offer you food, lodging, work, or information as they attempt to curry favor with you.
 
