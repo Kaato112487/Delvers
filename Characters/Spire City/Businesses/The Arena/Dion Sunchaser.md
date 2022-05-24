@@ -23,12 +23,18 @@ traits:
  - name: Battle Veteran
    desc: Once per turn, Dion may reroll an Attack roll, but must take the new rolled value.
  - name: Heavy Cleave
-   desc: When attacking a creature with a shield, if Dion's attack roll is exactly 1 less than the creature's AC, the creature is knocked prone.
+   desc: If Dion's attack roll is exactly 1 less than the creature's AC, the creature is knocked prone.
  - name: Runic Axe
-   desc: Dion's Great Axe returns to his hand at the beginning of each of his turns
+   desc: Dion's Great Axe returns to his hand at the beginning of each of his turns.
+ - name: Guardian's Pride
+   desc: While Dion has under 50 Hit Points, reduce all damage dealt to him by 3.
+ - name: Superior Criticals
+   desc: Dion deals a critical hit on rolls of either 19 or 20.
 actions:
  - name: Multiple Attacks
    desc: Dion makes two melee attacks with his Great Axe.
+ - name: Claw
+   desc: "Melee Weapon Attack: +9 to hit, reach 5ft., one target.  Hit: 3 (1d4) slashing damage."
  - name: Great Axe
    desc: "Melee Weapon Attack: +9 to hit, reach 5ft., one target.  Hit: 9 (1d12+2) magical slashing damage."
  - name: Axe Throw
