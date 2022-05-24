@@ -29,7 +29,7 @@ traits:
  - name: Guardian's Pride
    desc: While Dion has under 50 Hit Points, reduce all damage dealt to him by 3.
  - name: Superior Criticals
-   desc: Dion deals a critical hit on rolls of either 19 or 20.
+   desc: Dion's weapon attacks score a critical hit on rolls of either 18-20.
 actions:
  - name: Multiple Attacks
    desc: Dion makes three melee attacks with his Great Axe.

@@ -30,6 +30,8 @@ traits:
    desc: As an Action, Calre may expend her Battle Master point to make a Claw attack.  If the attack hits, the creature is Blinded until they make a successful Constitution Saving Throw at the end of one of their turns.  The DC of the save is 17.
  - name: Undefeated
    desc: Calre cannot be reduced to 0 Hit Points while her Hit Points are greater than 1.  If she has only 1 Hit Point at the start of her turn and has not taken damage since her previous turn, she regains 1d10+15 hit points.
+ - name: Improved Critical
+   desc: Calre's weapon attacks score a critical hit on a roll of 19 or 20.
 actions:
  - name: Multiple Attacks
    desc: Calre makes three attacks with her Sabre and two with her Claw
