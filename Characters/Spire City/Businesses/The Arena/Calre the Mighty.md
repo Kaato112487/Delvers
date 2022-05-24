@@ -32,7 +32,7 @@ traits:
    desc: Calre cannot be reduced to 0 Hit Points while her Hit Points are greater than 1.  If she has only 1 Hit Point at the start of her turn and has not taken damage since her previous turn, she regains 1d10+15 hit points.
 actions:
  - name: Multiple Attacks
-   desc: Calre makes two attacks with her Sabre and two with her Claw
+   desc: Calre makes three attacks with her Sabre and two with her Claw
  - name: Sabre
    desc: "Melee Weapon Attack: +10 to hit, reach 5ft., one target.  Hit: 7 (1d10+5) magical slashing damage."
  - name: Claw

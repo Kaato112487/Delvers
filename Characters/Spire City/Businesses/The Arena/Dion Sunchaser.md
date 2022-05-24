@@ -32,7 +32,7 @@ traits:
    desc: Dion deals a critical hit on rolls of either 19 or 20.
 actions:
  - name: Multiple Attacks
-   desc: Dion makes two melee attacks with his Great Axe.
+   desc: Dion makes three melee attacks with his Great Axe.
  - name: Claw
    desc: "Melee Weapon Attack: +9 to hit, reach 5ft., one target.  Hit: 3 (1d6+5) slashing damage."
  - name: Great Axe
