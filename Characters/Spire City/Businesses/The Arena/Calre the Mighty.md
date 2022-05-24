@@ -17,7 +17,7 @@ languages: Common, Leonin
 cr: 13
 traits:
  - name: Action Surge
-   desc: On her turn, Calre may take an additional action.  She may only do this once per combat.
+   desc: On her turn, Calre may take an additional Action.  Multiple Attacks counts as a single Action.  She may only do this once per combat.
  - name: Second Wind
    desc: On her turn, Calre may user her bonus action to regain 1d10+15 hit points.  She may only do this once per combat.
  - name: Battle Master
@@ -28,6 +28,8 @@ traits:
    desc: As an Action, Calre may expend her Battle Master point to make a Claw attack.  If the attack hits, the creature is knocked Prone and Calre gains advantage on all attacks against them until they stand.  To stand, the creature may either make an Athletics check against Calre's Strength Score or an Acrobatics check against her Dexterity Score.
  - name: Blinding Strike
    desc: As an Action, Calre may expend her Battle Master point to make a Claw attack.  If the attack hits, the creature is Blinded until they make a successful Constitution Saving Throw at the end of one of their turns.  The DC of the save is 17.
+ - name: Undefeated
+   desc: Calre cannot be reduced to 0 Hit Points while her Hit Points are greater than 1.  If she has only 1 Hit Point at the start of her turn and has not taken damage since her previous turn, she regains 1d10+15 hit points.
 actions:
  - name: Multiple Attacks
    desc: Calre makes two attacks with her Sabre and two with her Claw
@@ -36,6 +38,6 @@ actions:
  - name: Claw
    desc: "Melee Weapon Attack: +11 to hit, reach 5ft., one target.  Hit: 4 (1d6) slashing damage"
  - name: Daunting Roar
-   desc: As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn.  The DC of the save is 18, reduced by 1 for each time you've previously been affected by Daunting Roar.
+   desc: As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn.  The DC of the save is 18, or 16 if you've previously been affected by Daunting Roar.
 ```
 

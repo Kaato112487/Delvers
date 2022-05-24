@@ -17,7 +17,7 @@ languages: Common, Leonin
 cr: 12
 traits:
  - name: Action Surge
-   desc: On his turn, Dion may take an additional action.  He may only do this once per combat.
+   desc: On his turn, Dion may take an additional Action.  Multiple Attacks counts as a single Action.  He may only do this once per combat.
  - name: Second Wind
    desc: On his turn, Dion may user his bonus action to regain 1d10+14 hit points.  He may only do this once per combat.
  - name: Battle Veteran
@@ -34,5 +34,5 @@ actions:
  - name: Axe Throw
    desc: "Ranged Weapon Attack: +9 to hit, reach 25ft., one target.  Hit: 9 (1d12+2) magical slashing damage.  Dion will no longer be able to attack with his Great Axe until he retrieves it."
  - name: Daunting Roar
-   desc: As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn.  The DC of the save is 18, reduced by 1 for each time you've previously been affected by Daunting Roar.
+   desc: As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn.  The DC of the save is 18, or 16 if you've previously been affected by Daunting Roar.
 ```
