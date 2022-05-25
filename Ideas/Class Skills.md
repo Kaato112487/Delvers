@@ -40,6 +40,9 @@ All fighters at level 1 and 11 get to select a Signature Move, which may only be
 ## Monk - Unlock Limits
 As your action, perform all possible unarmed attacks, including Extra Attack and Martial Arts, that do not require spending ki points targeting yourself.  After taking damage from these attacks, increase your movement speed by 10ft, AC by 1, and gain an additional Extra Attack for 1 minute.  You may not use this feature again until after a long rest.
 
+## Monk (Alternative) - Martial Spirit
+Consuming any potion restores 1d4 Ki Points.  As a Bonus Action, the Monk may expend 1 Ki Point to increase the range of their Unarmed Attack to 30ft and select any other damage type for the attacks to deal, until the end of their turn.  Attacks made using Flurry of Blows do not gain this benefit.  
+
 ## Monk (Alternative) - Martial Techniques
 Gain the following martial techniques as your level increases:
 ```statblock
