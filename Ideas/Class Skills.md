@@ -111,7 +111,7 @@ You know Charm Person and may cast it without using a spell slot when targeting 
 ## Ranger - Wilderness Training
 Rangers all know True Strike and Speak with Animals, and they don’t count against their known spells.  At 5th level, the ranger may cast True Strike as a reaction to being targeted with an attack.  At 11th level, the ranger may cast True Strike as a Bonus Action against any target that they did not attack this turn.  At 15th level, True Strike no longer requires concentration.
 
-Rangers gain +3 to all Nature and Animal Handling rolls.  
+Rangers gain +3 to all Nature, Survival, and Animal Handling rolls.  
 
 ## Rogue - Toolkit
 Rogues are able to craft a large number of tools for use in their trade.  Each tool has its own construction time, cost, weight, and usage.
