@@ -7,6 +7,9 @@ When using any improvised weapon that bears no resemblance to a weapon, attacks 
 ## Barbarian (Alternate) - Wild Strength
 When using any melee weapon which adds damage based on the Strength modifier, you may choose to ignore the value of the weapon's base damage roll, which is generally Piercing, Bludgeoning, or Slashing damage.  If you do, instead roll Xd4 + your Proficiency Bonus of the same damage type as the weapon, where X is equal to your Strength modifier, plus one if wielded with two hands.  Any additional damage that is added by magical effects is still added.  If this is done with an improvised or weakened weapon, that weapon breaks and becomes unusable after dealing damage.
 
+## Barbarian (Alternate) - Flow of Combat
+At any time the Barbarian may expend half of their movement to gain an additional use of Extra Attack, even if they have not obtained the trait yet.  The Barbarian may expends uses of Extra Attack to gain an additional 5 feet of movement this turn per usage, but only after they have taken the Attack action.
+
 ## Bard - Battle Song
 As a bonus action, you may expend two uses of Bardic Inspiration to begin a prolonged song or chant of battle.  This song requires you to maintain concentration and is ended if you are no longer able to speak, lose concentration, or after 30 seconds.  While sustaining the song, Bardic Inspiration may be without expending uses, and when the song begins you may immediately use Bardic Inspiration.
 
