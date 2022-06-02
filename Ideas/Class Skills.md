@@ -41,7 +41,33 @@ All fighters at level 1 and 11 get to select a Signature Move, which may only be
 As your action, perform all possible unarmed attacks, including Extra Attack and Martial Arts, that do not require spending ki points targeting yourself.  After taking damage from these attacks, increase your movement speed by 10ft, AC by 1, and gain an additional Extra Attack for 1 minute.  You may not use this feature again until after a long rest.
 
 ## Monk (Alternative) - Martial Spirit
-Consuming any potion restores 1d4 Ki Points.  As a Bonus Action, the Monk may expend 1 Ki Point to increase the range of their Unarmed Attack to 30ft and select any other damage type for the attacks to deal, until the end of their turn.  Attacks made using Flurry of Blows do not gain this benefit.  
+Consuming any potion that restores health also restores 1d4 Ki Points.  As a Bonus Action, the Monk may expend 1 Ki Point to increase the range of their Unarmed Attack to 30ft and select any other damage type for the attacks to deal, until the end of their turn.  Attacks made using Flurry of Blows do not gain this benefit.  The monk may spend 2 Ki Points to emit a thread of Divine Sense.
+
+```statblock
+columns: 2
+name: Divine Sense
+size: Tiny
+type: spirit
+ac: 10
+hp: 10
+hit_dice: 10
+speed: 5ft flying per point of Wisdom
+senses: blindsight 10ft.  hearing 30ft.
+damage_immunities: Bludgeoning, Piercing, or Slashing damage from Non-Magical Weapons
+traits:
+ - name: Invisible
+   desc: The thread of Divine Sense is always invisible.
+ - name: Intangible
+   desc: Creatures pass through the thread of Divine Sense without contacting it.  It has a diameter of 1in. for the purposes of movement through the environment.
+ - name: Ceaseless
+   desc: The thread of Divine Sense must move its maximum speed every turn.  Once it has traveled a distance of 50ft per point of Wisdom, it must retract back to the monk.
+ - name: Soul Link
+   desc: As a part of your soul, the monk sees, hears, and feels everything the thread of Divine Sense does.  If destroyed, the monk suffers 1d10 damage and loses half their remaining Ki Points.  While the Divine Sense exists, the monk is Unconscious.
+```
+
+A monk can sit down and spend 2 Ki Points render themselves unconscious to send out a thread of Divine Sense.  This invisible, physically intangible thread can be detected by Detect Magic, cannot pass through solid objects, is approximately 1 inch in diameter, and travels constantly at a rate of 5 feet for every point of Wisdom the monk has to a maximum traveled distance of 50 feet for every point of Wisdom the monk has.  The entire length of the thread can transmits sound and sight back to the monk and blind sight to 10 feet.  Once it reaches its maximum length, the thread begins retracting along the same path.  Creatures that detect the thread may destroy it using magical weapons or spells
+
+
 
 ## Monk (Alternative) - Martial Techniques
 Gain the following martial techniques as your level increases:
