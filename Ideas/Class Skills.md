@@ -51,7 +51,7 @@ type: spirit
 ac: 10
 hp: 10
 hit_dice: 10
-speed: 5ft flying per point of Wisdom
+speed: 5ft flying per Monk level
 senses: blindsight 10ft.  hearing 30ft.
 damage_immunities: Bludgeoning, Piercing, or Slashing damage from Non-Magical Weapons
 traits:
@@ -60,7 +60,7 @@ traits:
  - name: Intangible
    desc: Creatures pass through the thread of Divine Sense without contacting it.  It has a diameter of 1in. for the purposes of movement through the environment.
  - name: Ceaseless
-   desc: The thread of Divine Sense must move its maximum speed every turn.  Once it has traveled a distance of 50ft per point of Wisdom, it must retract back to the monk.
+   desc: The thread of Divine Sense must move its maximum speed every turn.  Once it has traveled a distance of 50ft per Monk level, it must retract back to the monk.
  - name: Soul Link
    desc: As a part of your soul, the monk sees, hears, and feels everything the thread of Divine Sense does.  If destroyed, the monk suffers 1d10 damage and loses half their remaining Ki Points.  While the Divine Sense exists, the monk is Unconscious.
 ```
