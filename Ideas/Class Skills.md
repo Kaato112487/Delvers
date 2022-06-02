@@ -101,7 +101,7 @@ As a reaction to taking damage, you may expend 1 Ki Point to reduce the damage t
 For every 5 points of Kinetic Energy you expend, gain 5 feet of movement this turn.  Movement done in this way does not provoke Opportunity Attacks.
 
 ### Golden Body
-As a bonus action, you may expend 2 Ki Points to emit a golden light from your body for 20 seconds (2 rounds after the current one).  You shed bright light for a radius of 15 feet, and dim light for an additional 15 feet.  While emitting that light, your melee attacks deal an additional 1d4 Radiant damage.
+As a bonus action, you may expend 2 Ki Points to emit a golden light from your body for 20 seconds (2 rounds after the current one).  You shed bright light for a radius of 15 feet, and dim light for an additional 15 feet.  While emitting that light, your Unarmed attacks and attacks with Monk weapons deal an additional 1d4 Radiant damage.
 
 ## Paladin - Lightbringer
 Gain proficiency in Persuasion and add an additional +3 to all rolls for Persuasion.  A favorable status within society means you will immediately have good standing and more clout in any town or city you visit where you're known or recognized as a Paladin.  It's not unusual for lords and nobles to offer you food, lodging, work, or information as they attempt to curry favor with you.
