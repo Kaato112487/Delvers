@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas/Class Skills.md",
+            "file": "Characters/Orgri the Living Mountain.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Class Skills.md",
+                "file": "Characters/Orgri the Living Mountain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
+    "Characters/Orgri the Living Mountain.md",
     "Ideas/Class Skills.md",
     "Beastiary/Homebrew/Flat Worm.md",
     "Characters/Spire City/Businesses/The Arena/Barmo Hillski.md",
@@ -115,7 +116,6 @@
     "Beastiary/Homebrew/Face Collector.md",
     "Story/Chapter 1/Arrival in the City.md",
     "Places/Spire City/Spire City.md",
-    "Ideas/Illusions.md",
-    "Beastiary/Mimic.md"
+    "Ideas/Illusions.md"
   ]
 }
