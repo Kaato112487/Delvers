@@ -4,6 +4,7 @@ You can immediately identify any spell you can percieve being cast, unless cast 
 ## Artificer Subclass - Runemaster
 ### Runic Magic
 Runemasters inscribe spells directly into objects and the environment.  A runemaster may only have a certain number of runes inscribed and active at a time, depending on their level.  When attempting to activate additional runes, the runemaster must first dismiss an active rune.
+
 | Artificer Level | Inscribed | Active |
 | --------------- | --------- | ------ |
 | 3rd             | 1         | 1      |
@@ -12,7 +13,7 @@ Runemasters inscribe spells directly into objects and the environment.  A runema
 | 10th            | 4         | 2      |
 | 14th            | 5         | 2      |
 | 17th            | 6         | 3      |
-| 20th            | 6         | 3      |
+| 20th            | Unlimited | 3      |
 
 ### Runemaster Spells
 | Artificer Level | Spell                                                       |
@@ -24,23 +25,23 @@ Runemasters inscribe spells directly into objects and the environment.  A runema
 | 17th            | Cloudkill, Hold Monster, Insect Plague, Teleportation Circle                                                            |
 
 ### Trap Rune
-As an action, cast any spell known from the Runemaster Spells by inscribing it to your current location.  At the start of your next turn, the runes inscribed become invisible.  If any creature you can perceive enters the location where the runes were inscribed, you may use your Reaction to instantaneously cast the spell stored within the rune, targeting either that creature or the location of the rune depending on the spell.  Spells which require concentration will only begin requiring it when the rune is activated.
+As an action, cast any spell known from the Runemaster Spells by inscribing it to your current location.  At the start of your next turn, the runes inscribed become invisible.  If any creature you can perceive enters the location where the runes were inscribed, you may use your Reaction to instantaneously cast the spell stored within the rune, targeting either that creature or the location of the rune depending on the spell.  Spells which require concentration will only begin requiring it when the rune is activated.  At 9th level, the rune may be activated if a creature is within 5 feet.  At 15th level, the rune may be activated if a creature is within its blindsight range.
 
 ### Boon Rune
 As an action, you magically strike a location on any surface with a radius of 10 feet, carving glowing characters into it.  While the runes remain undamaged and whole, friendly creatures within its bounds gain all listed benefits, with more becoming available based on the Artificer level.  It may be used a number of times equal to your proficiency bonus, restored after a long rest.  The rune does not dissipate with time.
 | Artificer Level | Benefit                                                                             |
 | --------------- | ----------------------------------------------------------------------------------- |
 | 5th             | At the start of their turn, they gain 1d4 Temporary Hit Points if not incapacitated |
-| 6th             | Gain +1 to Attack Rolls with Finesse Weapons                                        |
-| 7th             | Gain +1 to AC if wearing Heavy armor                                                |
-| 8th             | Add +1 to all Saving Throws                                                         |
-| 10th            | Gain +2 to attack rolls for Cantrips                                                |
-| 15th            | Increase current and maximum Hit Points by 25                                       |
-| 18th            | Gain +1 to AC                                                                       |
-| 20th            | Gain +1 to all rolls                                                                                    |
+| 6th             | Add +1 to all Saving Throws                                                         |
+| 7th             | Gain +1 to AC                                                                       |
+| 8th             | Gain +1 to Melee Attack Rolls                                                       |
+| 10th            | Gain +2 to attack rolls for Cantrips and Ranged Weapons                             |
+| 13th            | Add the Artificer's Intelligence Modifier to damage rolls                           |
+| 17th            | Gain +1 to AC                                                                       |
+| 20th            | Gain +1 to all rolls                                                                |
 
 ### Shield Rune
-As an action, you may expend a spell slot to inscribe a rune upon a location.  At the start of your next turn, a globe of protective energy with a radius of 20ft appears around the location of the rune.  The hit points of the globe are four times your Artificer level, plus 2d10 for each level of the spell slot used to inscribe the rune.  Creatures, objects, and spell effects cannot pass through the globe until it is dismissed or destroyed.  The globe persists for 30 seconds per level of the spell slot used to inscribe the rune.
+As an action, you may expend a spell slot to inscribe a rune upon a location.  At the start of your next turn, a globe of protective energy with a radius of 20ft appears around the location of the rune.  The hit points of the globe are four times your Artificer level, plus 2d10 for each level of the spell slot used to inscribe the rune.  Creatures, objects, and spell effects cannot pass through the globe until it is dismissed or destroyed.  The globe persists for 30 seconds per level of the spell slot used to inscribe the rune.  The Shield Rune may be inscribed as the spell used in the Trap Rune.
 
 ### Forged Senses
 Every rune you have inscribed gives you blindsight and hearing to a range of 20 feet from the center of that rune.
