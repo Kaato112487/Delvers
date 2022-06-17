@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Orgri the Living Mountain.md",
+            "file": "Ideas/Class Skills.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Orgri the Living Mountain.md",
+                "file": "Ideas/Class Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,13 +102,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
-    "Characters/Orgri the Living Mountain.md",
     "Ideas/Class Skills.md",
+    "Characters/Orgri the Living Mountain.md",
     "Beastiary/Homebrew/Flat Worm.md",
     "Characters/Spire City/Businesses/The Arena/Barmo Hillski.md",
     "Characters/Spire City/Businesses/The Arena/Calre the Mighty.md",
