@@ -175,6 +175,11 @@ traits:
    desc: 3lbs, 12gp, 4 hours.  You cannot wear any additional gloves while this sleeve is equipped.  The sleeve contains 12 throwing needles sewn carefully as to not inhibit movement.  As a bonus action, you may draw and throw a needle as an attack against a target within a range of 20/60ft. for 1d4 piercing damage.  Upon a successful hit, the target must make a Constitution saving throw with a DC equal to 10 + your Proficiency Bonus or be Poisoned for 2 turns.
 ```
 
+## Rogue (Alternative) - Swift
+During any turn which the Rogue has and will not taken the Attack action or cast a spell, as a Bonus Action the Rogue may suddenly move 5 feet times their Dexterity Modifier, minimum of 5 feet.  Movement in this way does not provoke Opportunity Attacks.
+
+When an ally of the Rogue attacks a creature, if the Rogue is within range to do so they may use their reaction to attack the same creature.  If the attack misses, the Rogue does not expend their reaction.
+
 ## Sorcerer - Font of Magic
 You may use Sorcery Points to restore spell slots to other creatures.  When doing so, you may reduce the spell slot restored by 1 level to target an additional creature other than yourself.  For example, by paying the cost to restore a 3rd Level spell slot, you may restore a 2nd Level spell slot to 2 creatures or a 1st Level spell slot to 3 different creatures.  Instead of restoring a spell slot, you may restore 1d8 + your Proficiency Bonus Hit Points per level of the spell slot that would have been restored.
 
