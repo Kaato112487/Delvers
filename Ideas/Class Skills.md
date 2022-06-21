@@ -176,7 +176,7 @@ traits:
 ```
 
 ## Rogue (Alternative) - Swift
-During any turn which the Rogue has and will not taken the Attack action or cast a spell, as a Bonus Action the Rogue may suddenly move 5 feet times their Dexterity Modifier, minimum of 5 feet.  Movement in this way does not provoke Opportunity Attacks.
+During any turn which the Rogue has and will not taken the Attack action or cast a spell, as a Bonus Action the Rogue may suddenly move 5 feet times their Dexterity Modifier, minimum of 5 feet.  Movement in this way does not provoke Opportunity Attacks.  They may do this a number of times equal to their Proficiency Bonus, restored after a Short Rest.
 
 When an ally of the Rogue attacks a creature, if the Rogue is within range to do so they may use their reaction to attack the same creature.  If the attack misses, the Rogue does not expend their reaction.
 
