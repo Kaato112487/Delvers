@@ -1,0 +1,5 @@
+Requesting an insight check from the players to offer information, perhaps following some event.  Instead of always waiting for them to ask, offer the possibility.  Examples:
+
+You've emerged into a room that appears to be outside.  The door is free standing and you can walk behind it, though going through takes you back where you started.  Request an insight check to see who realizes this is or isn't an illusion.  When some event, like a creature being killed, occurs in the space and the sky starts to fracture like glass, request an insight check to see who realizes the should probably run before the whole space collapses into nothing.
+
+Walking through a gallery hallway, request a perception, then insight check.  Do they notice the paintings repeating?  Are the paintings moving or watching them?  Is there some secret they can uncover about one of the paintings.
