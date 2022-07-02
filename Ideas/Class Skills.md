@@ -56,13 +56,16 @@ When using any melee weapon which adds damage based on the Strength modifier, yo
 At any time the Barbarian may expend half of their movement to gain an additional use of Extra Attack, even if they have not obtained the trait yet.  The Barbarian may expends uses of Extra Attack to gain an additional 5 feet of movement this turn per usage, but only after they have taken the Attack action.
 
 ## Bard - Battle Song
-As a bonus action, you may expend two uses of Bardic Inspiration to begin a prolonged song or chant of battle.  This song requires you to maintain concentration and is ended if you are no longer able to speak, lose concentration, or after 30 seconds.  While sustaining the song, Bardic Inspiration may be without expending uses, and when the song begins you may immediately use Bardic Inspiration.
+After casting Bardic Inspiration, as a bonus action each subsequent turn you may cast Bardic Inspiration on the same target without expending a use.  This song requires you to maintain concentration and is ended if you are no longer able to speak, lose concentration, or after 30 seconds.
 
 ## Cleric - Favored Art
 After a long rest, select one 1st-level spell you know.  You may cast that spell as a cantrip a number of times equal to your Proficiency Bonus until your next long rest.
 
 ## Druid - Animal Adaptation
 As a bonus action while using Wild Shape, you may select another creature to assume the shape of without first reverting to your normal form.  Doing so does not require an additional use of Wild Shape, but you do not regain any hit points.  If your current hit points are less than the new maximum, they are reduced to the new maximum.  Additionally, at 14th level the Max CR is increased to 2.
+
+## Druid (Alternative) - Growth
+The druid's presence is able to spring life back to any surface that isn't crafted or constructed.  Gain a Rejuvenation Aura with an radius of 5 feet.  At the end of your turn, any natural terrain in the aura is rejuvenated and springs back to life.  Rejuvenated areas are difficult terrain for enemies, and any enemies that end their turn in a Rejuvenated area must make either a Dexterity or Strength saving throw against your spell save DC or be restrained during their next turn.  At 9th level, increase the radius to 10 feet.  At 17th level, increase the radius to 15 feet.  When a druid makes a spell attack in a rejuvenated area, attacks score a critical hit on a roll of 19 or 20.
 
 ## Druid (Alternative) - Sprout
 After a long rest, the Druid may create a single Sprout Seed.  A single Druid may have created up to 3 of these seeds at any time, with the oldest seed being destroyed when attempting to create a new one.  To create a seed, the Druid must expend a single spell slot, which determines the type of seed that is created.  Seeds may be used by an sentient creature, even while in Wild Shape.
