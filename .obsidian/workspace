@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas/Requested Insight Checks.md",
+            "file": "Ideas/Errata.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arena",
+                "query": "shield",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Requested Insight Checks.md",
+                "file": "Ideas/Errata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,19 +102,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
-    "Ideas/Requested Insight Checks.md",
+    "Ideas/Errata.md",
+    "Ideas/Guided by the Villain.md",
+    "Story/Overview/Overall Story of the Module.md",
+    "Story/Overview/History of the Spire.md",
     "Ideas/Class Skills.md",
-    "Characters/Orgri the Living Mountain.md",
     "Beastiary/Homebrew/Flat Worm.md",
     "Characters/Spire City/Businesses/The Arena/Barmo Hillski.md",
     "Characters/Spire City/Businesses/The Arena/Calre the Mighty.md",
     "Characters/Spire City/Businesses/The Arena/Dion Sunchaser.md",
-    "Beastiary/Homebrew/Face Collector.md",
-    "Story/Chapter 1/Arrival in the City.md",
-    "Places/Spire City/Spire City.md"
+    "Beastiary/Homebrew/Face Collector.md"
   ]
 }
