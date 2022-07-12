@@ -11,7 +11,7 @@ size: Medium
 type: automaton
 alignment: neutral
 ac: 10
-hp: Artificer level
+hp: 5 + Artificer level
 senses: tremorsight 45ft. darkvision 10ft.
 traits:
  - name: Tremorsight
@@ -19,7 +19,7 @@ traits:
  - name: Snapshot
    desc: The guardian must use its reaction to cast a spell targeting any creature it percieves.  The Artificer may choose which spell is cast among those that the guardian has stored.  Once a spell is used, it is removed from the guardian's collected spells.  Casting a spell in this way deals damage to the guardian equal to 1 + the spell's level.
  - name: Spellbound
-   desc: Any spell which is cast targeting the guardian is absorbed into the collected spells.  A spell may be added more than once.  Any spellcaster may store spells within the guardian, and the spells are stored at their lowest spell slot regardless of how they were cast.
+   desc: Any spell up to 5th level which is cast including the guardian as a target is absorbed into the collected spells, and the guardian suffers no effects from it.  A spell may be added more than once.  Any spellcaster may store spells within the guardian, and the spells are stored at their lowest spell slot regardless of how they were cast.
  - name: Packed Object
    desc: The guardian remains deactivated when packed for transport, only able to be activated once unpacked.  Packing or unpacking requires an action, and activating or deactivating requires an action.  The guardian cannot cast a spell until the start of the Artificer's next turn after being activated.  The guardian may not be packed while activated.
 ```
