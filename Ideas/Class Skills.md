@@ -1,6 +1,29 @@
 ## Artificer - Adept Analysis
 You can immediately identify any spell you can percieve being cast, unless cast using Metamagic.  Gain a maximum number of Comprehension Points equal to your Proficiency Bonus, which are restored after a short or long rest.  When you identify a spell in this way, you may choose to fix that spell in your mind and learn it temporarily.  You may choose to cast that spell using Comprehension Points, instead of spell slots, where the required number of Comprehension Points is equal to the level of the spell slot you would like to use, allowing for higher level versions of spells to be cast in this way.  Only one spell may be fixed in your mind at a time.
 
+## Artificer - Clockwork Guardian
+A clockwork guardian is a tower of magic and mechanics which is able to react to movement and vision, though only at a short range.  Constructing a Clockwork Guardian requires 8 hours of work.  An artificer may only have one guardian at a time.
+
+```statblock
+columns: 2
+name: Clockwork Guardian
+size: Medium
+type: automaton
+alignment: neutral
+ac: 10
+hp: Artificer level
+senses: tremorsight 45ft. darkvision 10ft.
+traits:
+ - name: Tremorsight
+   desc: The guardian is aware of any creature that moves along the ground more than 10 feet in a turn while within its tremorsight range.
+ - name: Snapshot
+   desc: The guardian must use its reaction to cast a spell targeting any creature it percieves.  The Artificer may choose which spell is cast among those that the guardian has stored.  Once a spell is used, it is removed from the guardian's collected spells.  Casting a spell in this way deals damage to the guardian equal to 1 + the spell's level.
+ - name: Spellbound
+   desc: Any spell which is cast targeting the guardian is absorbed into the collected spells.  A spell may be added more than once.  Any spellcaster may store spells within the guardian, and the spells are stored at their lowest spell slot regardless of how they were cast.
+ - name: Packed Object
+   desc: The guardian remains deactivated when packed for transport, only able to be activated once unpacked.  Packing or unpacking requires an action, and activating or deactivating requires an action.  The guardian cannot cast a spell until the start of the Artificer's next turn after being activated.  The guardian may not be packed while activated.
+```
+
 ## Artificer Subclass - Runemaster
 ### Runic Magic
 Runemasters inscribe spells directly into objects and the environment.  A runemaster may only have a certain number of runes inscribed and active at a time, depending on their level.  When attempting to activate additional runes, the runemaster must first dismiss an active rune.
