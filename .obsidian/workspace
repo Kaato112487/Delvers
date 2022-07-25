@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shield",
+                "query": "arena",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,20 +102,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
     "Ideas/Class Skills.md",
-    "Beastiary/Homebrew/Flat Worm.md",
-    "Ideas/Errata.md",
+    "README.md",
+    "Story/Prologue/Hooks.md",
+    "Story/Prologue/Gathering.md",
+    "Ideas/Time Travel Farming.md",
+    "Ideas/Rebuild Reality.md",
     "Ideas/Guided by the Villain.md",
-    "Story/Overview/Overall Story of the Module.md",
-    "Story/Overview/History of the Spire.md",
-    "Characters/Spire City/Businesses/The Arena/Barmo Hillski.md",
-    "Characters/Spire City/Businesses/The Arena/Calre the Mighty.md",
-    "Characters/Spire City/Businesses/The Arena/Dion Sunchaser.md",
-    "Beastiary/Homebrew/Face Collector.md"
+    "Story/Overview/Running the Game.md",
+    "Story/Overview/Preparing the Party.md",
+    "Story/Overview/History of the Spire.md"
   ]
 }
