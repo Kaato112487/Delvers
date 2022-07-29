@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas/Vampire Guardians.md",
+            "file": "Beastiary/Homebrew/Memory Eater.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Vampire Guardians.md",
+                "file": "Beastiary/Homebrew/Memory Eater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,8 @@
   },
   "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
+    "Beastiary/Homebrew/The Dancers.md",
+    "Ideas/Vampire Guardians.md",
     "Ideas/Class Skills.md",
     "Beastiary/Homebrew/Flat Worm.md",
     "Ideas/Errata.md",
@@ -114,8 +116,6 @@
     "Story/Overview/Overall Story of the Module.md",
     "Story/Overview/History of the Spire.md",
     "Characters/Spire City/Businesses/The Arena/Barmo Hillski.md",
-    "Characters/Spire City/Businesses/The Arena/Calre the Mighty.md",
-    "Characters/Spire City/Businesses/The Arena/Dion Sunchaser.md",
-    "Beastiary/Homebrew/Face Collector.md"
+    "Characters/Spire City/Businesses/The Arena/Calre the Mighty.md"
   ]
 }
