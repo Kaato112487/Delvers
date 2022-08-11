@@ -190,15 +190,15 @@ While in the Ethereal Plane you have immunity to all Bludgeoning, Slashing, and 
 As an Action or Bonus Action while you are in an you may exit the Ethereal Plane.  If you do so as an action, creatures within 5 feet of you must make Constitution saving throws against your Ki Save DC.  They take damage equal to your Martial Arts die plus your proficiency bonus, or half as much on a successful save.
 
 ### Warp Gate
-If a creature is hit with an attack made as part of Phase Shift, you may choose to have them enter the Ethereal Plane with you.  Alternatively, you may select one willing creature within 5 feet and have them enter the Ethereal Plane with you.  They gain the same damage resistances and immunity from creatures outside the Ethereal Plane, hover, and a flying speed, but always through difficult terrain.  They cannot willingly exit the Ethereal Plane, but will remain there for 30 seconds.
+If a creature is hit with an attack made as part of Phase Shift, you may choose to have them enter the Ethereal Plane with you.  Alternatively, you may select one willing creature within 5 feet and have them enter the Ethereal Plane with you.  They gain the same damage resistances and immunity from creatures outside the Ethereal Plane, hover, and a flying speed, but always through difficult terrain, and cannot attack creatures outside of the Ethereal Plane.  They cannot willingly exit the Ethereal Plane, but will remain there for 30 seconds.
 
 At 12th level you may bring any number of willing creatures within 5 feet into the Ethereal Plane.
 
 ### Reality Slip
 As a reaction to being the target of a spell or attack, you may expend a Ki Point to enter the Ethereal Plane.  You may do this a number of times equal to your proficiency bonus, restored after a long rest.
 
-### Localized Rupture
-
+### Prison Space
+You may use Phase Shift on targets without entering the Ethereal Plane yourself.
 
 ## Paladin - Lightbringer
 Gain proficiency in Persuasion and add an additional +3 to all rolls for Persuasion.  A favorable status within society means you will immediately have good standing and more clout in any town or city you visit where you're known or recognized as a Paladin.  It's not unusual for lords and nobles to offer you food, lodging, work, or information as they attempt to curry favor with you.
