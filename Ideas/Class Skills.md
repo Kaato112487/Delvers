@@ -177,6 +177,13 @@ For every 5 points of Kinetic Energy you expend, gain 5 feet of movement this tu
 ### Golden Body
 As a bonus action, you may expend 2 Ki Points to emit a golden light from your body for 20 seconds (2 rounds after the current one).  You shed bright light for a radius of 15 feet, and dim light for an additional 15 feet.  While emitting that light, your Unarmed attacks and attacks with Monk weapons deal an additional 1d4 Radiant damage.
 
+## Monk Subclass - Planeswalker
+### Way of the Planeswalker
+Monks of the Way of the Planeswalker have decided to spread their message far and wide, even to other planes of existence.  
+
+### Phase Shift
+When taking the Attack action, you may choose to instead move out of phase into an space between dimensions.  Change the damage type to Force for all damage dealt by the attack and enter an Ethereal Plane.  While in the Ethereal Plane, you have immunity to all Bludgeoning, Slashing, and Piercing damage, and resistance to all other damage other than Psychic.  
+
 ## Paladin - Lightbringer
 Gain proficiency in Persuasion and add an additional +3 to all rolls for Persuasion.  A favorable status within society means you will immediately have good standing and more clout in any town or city you visit where you're known or recognized as a Paladin.  It's not unusual for lords and nobles to offer you food, lodging, work, or information as they attempt to curry favor with you.
 
