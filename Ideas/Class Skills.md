@@ -185,12 +185,12 @@ Monks of the Way of the Planeswalker have decided to spread their message far an
 As an action you may expend a Ki Point to move out of phase into an space between dimensions, an Ethereal Plane.  You may choose to make an attack during this time, but change the damage type to Force for all damage dealt by the attack.  At 10th level you may Phase Shift as an effect of making any attack.  At 15th level you may also enter the Ethereal Plane as a Bonus Action.
 
 ### Ethereal Plane
-While in the Ethereal Plane you have immunity to all Bludgeoning, Slashing, and Piercing damage and resistance to all other damage other than Psychic from creatures not in the Ethereal Plane.  Your appearance becomes blurred and ghostly as you aren't entirely in one dimension, granting you the ability to move through creatures and small objects that are not in the Ethereal Plane.  You cannot attack creatures that are not in the Ethereal Plane while you are in the Ethereal Plane, gain the ability to hover, and may fly at your same movement speed.   All movement is considered difficult terrain until you are 7th level.
+While in the Ethereal Plane you have immunity to all Bludgeoning, Slashing, and Piercing damage from non-magical attacks and resistance to all other damage other than Psychic from creatures not in the Ethereal Plane.  Your appearance becomes blurred and ghostly as you aren't entirely in one dimension, granting you the ability to move through creatures and small objects that are not in the Ethereal Plane.  You cannot attack creatures that are not in the Ethereal Plane while you are in the Ethereal Plane, gain the ability to hover, and may fly at your same movement speed.   All movement is considered difficult terrain until you are 7th level.
 
 As an Action or Bonus Action while you are in an you may exit the Ethereal Plane.  If you do so as an action, creatures within 5 feet of you must make Constitution saving throws against your Ki Save DC.  They take damage equal to your Martial Arts die plus your proficiency bonus, or half as much on a successful save.
 
 ### Warp Gate
-If a creature is hit with an attack made as part of Phase Shift, you may choose to have them enter the Ethereal Plane with you.  Alternatively, you may select one willing creature within 5 feet and have them enter the Ethereal Plane with you.  They gain the same damage resistances and immunity from creatures outside the Ethereal Plane, hover, and a flying speed, but always through difficult terrain, and cannot attack creatures outside of the Ethereal Plane.  They cannot willingly exit the Ethereal Plane, but will remain there for 30 seconds.
+If a creature is hit with an attack made as part of Phase Shift, you may choose to have them enter the Ethereal Plane with you.  Alternatively, you may select one willing creature within 5 feet and have them enter the Ethereal Plane with you.  They gain the same damage resistances and immunity from creatures outside the Ethereal Plane, hover, and a flying speed, but always through difficult terrain, and cannot attack creatures outside of the Ethereal Plane.  They cannot willingly exit the Ethereal Plane, but will remain there for a base time of 30 seconds, reduced by 6 seconds for each .
 
 At 12th level you may bring any number of willing creatures within 5 feet into the Ethereal Plane.
 
@@ -198,7 +198,7 @@ At 12th level you may bring any number of willing creatures within 5 feet into t
 As a reaction to being the target of a spell or attack, you may expend a Ki Point to enter the Ethereal Plane.  You may do this a number of times equal to your proficiency bonus, restored after a long rest.
 
 ### Prison Space
-You may use Phase Shift on targets without entering the Ethereal Plane yourself.
+You may use Phase Shift on targets without entering the Ethereal Plane yourself.  Increase the time a creature remains in the Ethereal Plane to 1 minute
 
 ## Paladin - Lightbringer
 Gain proficiency in Persuasion and add an additional +3 to all rolls for Persuasion.  A favorable status within society means you will immediately have good standing and more clout in any town or city you visit where you're known or recognized as a Paladin.  It's not unusual for lords and nobles to offer you food, lodging, work, or information as they attempt to curry favor with you.
