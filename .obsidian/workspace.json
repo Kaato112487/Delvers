@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f85272f4f4fd2d1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beastiary/Homebrew/Fog Walker.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f2dd6491ca6057e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Guided by the Villain.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,17 +143,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6ed7f0d68fa8711f",
+  "active": "4f2dd6491ca6057e",
   "lastOpenFiles": [
+    "Beastiary/Homebrew/Locust Dragon.md",
+    "Beastiary/Homebrew/Fog Walker.md",
+    "Beastiary/Homebrew/Hydranaught.md",
+    "Ideas/Guided by the Villain.md",
     "Ideas/Class Skills.md",
     "Beastiary/Homebrew/Memory Eater.md",
     "Beastiary/Homebrew/The Dancers.md",
     "Ideas/Vampire Guardians.md",
     "Beastiary/Homebrew/Flat Worm.md",
-    "Ideas/Errata.md",
-    "Ideas/Guided by the Villain.md",
-    "Story/Overview/Overall Story of the Module.md",
-    "Story/Overview/History of the Spire.md",
-    "Characters/Spire City/Businesses/The Arena/Barmo Hillski.md"
+    "Ideas/Errata.md"
   ]
 }
