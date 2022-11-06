@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ed7f0d68fa8711f",
+        "id": "923a56fd4f8b956c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Story/Overview/Overall Story of the Module.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shield",
+                "query": "arena",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Story/Overview/Overall Story of the Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,20 +102,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "6ed7f0d68fa8711f",
+  "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
-    "Ideas/Class Skills.md",
-    "Beastiary/Homebrew/Memory Eater.md",
-    "Beastiary/Homebrew/The Dancers.md",
-    "Ideas/Vampire Guardians.md",
-    "Beastiary/Homebrew/Flat Worm.md",
-    "Ideas/Errata.md",
-    "Ideas/Guided by the Villain.md",
-    "Story/Overview/Overall Story of the Module.md",
+    "Story/Overview/Adventure Background.md",
     "Story/Overview/History of the Spire.md",
-    "Characters/Spire City/Businesses/The Arena/Barmo Hillski.md"
+    "Ideas/Guided by the Villain.md",
+    "Ideas/Class Skills.md",
+    "README.md",
+    "Story/Prologue/Hooks.md",
+    "Story/Prologue/Gathering.md",
+    "Ideas/Time Travel Farming.md",
+    "Ideas/Rebuild Reality.md",
+    "Story/Overview/Running the Game.md"
   ]
 }
