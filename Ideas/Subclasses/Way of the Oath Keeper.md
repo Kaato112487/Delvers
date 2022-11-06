@@ -22,7 +22,7 @@ When hearing any statement you can understand, you can swear to the veracity of 
 As an action, make an unarmed strike against a creature.  You may roll damage as normal, but this strike does not count as an Attack.  If this strike hits the target, you may expend 4 ki points to swear a single oath upon yourself and the target.  The oath may be any of those Binding Oaths listed below.  If either oath-bound break this oath, you suffer 5d10 force damage and the oath is ended only for the one that broke it.  This oath lasts until the next dawn, until the oath-bound are on different planes of existence, or until one of the oath-bound is unconscious before it is fulfilled.  You may have multiple Oath of Restrictions against only a single creature at a time.
 
 #### Binding Oath of Dueling
-Any attack against a creature not oath-bound is forbidden.
+Any attack specifically targeting a creature not oath-bound is forbidden.
 
 #### Binding Oath of Courage
 Any movement that is not forced movement which increases the distance between the oath-bound is forbidden.
@@ -31,7 +31,7 @@ Any movement that is not forced movement which increases the distance between th
 Casting any spell or using any class feature is forbidden.
 
 #### Binding Oath of Attrition
-You immediately regain 1d8 + Proficiency Bonus hit points.  At the start of each of your turns, roll 1 martial arts die.  The oath-bound both take this damage.  Being healed by any source is forbidden.
+You immediately regain hit points equal to the total damage of the unarmed strike.  At the start of each of your turns, roll 1 martial arts die.  The oath-bound both take this damage.  Being healed by any source is forbidden.
 
 #### Binding Oath of Blood
 You gain advantage on attacks against target creature.  It is forbidden to end your turn without having dealt damage to any creature.
