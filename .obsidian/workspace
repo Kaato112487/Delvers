@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas/Class Skills.md",
+            "file": "Ideas/Subclasses/Way of the Oath Keeper.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Class Skills.md",
+                "file": "Ideas/Subclasses/Way of the Oath Keeper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,11 +106,11 @@
   },
   "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
+    "Ideas/Class Skills.md",
     "Story/Overview/Overall Story of the Module.md",
     "Ideas/Guided by the Villain.md",
     "Story/Overview/Adventure Background.md",
     "Story/Overview/History of the Spire.md",
-    "Ideas/Class Skills.md",
     "README.md",
     "Story/Prologue/Hooks.md",
     "Story/Prologue/Gathering.md",
