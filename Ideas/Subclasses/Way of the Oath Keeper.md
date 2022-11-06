@@ -37,7 +37,7 @@ You immediately regain 1d8 + Proficiency Bonus hit points.  At the start of each
 You gain advantage on attacks against target creature.  It is forbidden to end your turn without having dealt damage to any creature.
 
 #### Binding Oath of Respite
-The oath-bound are paralyzed until the end of the target's next turn.  Allowing the other oath-bound creature to take damage is forbidden.
+The oath-bound are paralyzed until the end of the target's next turn.  Allowing the other oath-bound creature to take damage before the condition ends is forbidden.
 
 ## Oath of Mercy
 ##### *17th-level Way of the Oath Keeper feature*
