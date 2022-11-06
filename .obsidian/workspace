@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Story/Overview/Overall Story of the Module.md",
+            "file": "Ideas/Class Skills.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Overview/Overall Story of the Module.md",
+                "file": "Ideas/Class Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "923a56fd4f8b956c",
   "lastOpenFiles": [
+    "Story/Overview/Overall Story of the Module.md",
+    "Ideas/Guided by the Villain.md",
     "Story/Overview/Adventure Background.md",
     "Story/Overview/History of the Spire.md",
-    "Ideas/Guided by the Villain.md",
     "Ideas/Class Skills.md",
     "README.md",
     "Story/Prologue/Hooks.md",
     "Story/Prologue/Gathering.md",
     "Ideas/Time Travel Farming.md",
-    "Ideas/Rebuild Reality.md",
-    "Story/Overview/Running the Game.md"
+    "Ideas/Rebuild Reality.md"
   ]
 }
