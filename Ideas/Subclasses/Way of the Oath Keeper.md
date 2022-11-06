@@ -9,7 +9,7 @@ You gain proficiency in the Persuasion and Deception skills.
 
 ## Oath of Victory
 ##### *3rd-level Way of the Oath Keeper feature*
-As a bonus action you may expend 1 ki point to declare your impending victory over another creature that you can see.  The oath lasts for one minute before it is considered broken.  If the target creature dies during your turn or as a direct result of one of your actions, such as being thrown from a cliff, the oath is fulfilled.  Otherwise the oath is considered broken.  If the oath is broken, reduce your current hit points by half or twice your monk level, whichever is greater.
+As a free action you may expend 1 ki point to declare your impending victory over another creature that you can see.  The oath lasts for one minute before it is considered broken.  If the target creature dies during your turn or as a direct result of one of your actions, such as being thrown from a cliff, the oath is fulfilled.  Otherwise the oath is considered broken.  If the oath is broken, reduce your current hit points by half or twice your monk level, whichever is greater.
 
 While the oath is sworn, if you hit the target creature with an attack that deals martial arts damage, you may roll an additional martial arts die once per turn.  Additionally, you may expend 1 ki point to gain advantage on all attacks against that creature until the start of your next turn.  You may only swear one Oath of Victory at a time.
 
