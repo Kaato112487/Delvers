@@ -19,10 +19,10 @@ When hearing any statement you can understand, you can swear to the veracity of 
 
 ## Oath of Restriction
 ##### *11th-level Way of the Oath Keeper feature*
-As an action, make an unarmed strike against a creature.  You may roll damage as normal, but this strike does not count as an Attack.  If this strike hits the target, you may expend 4 ki points to swear an oath upon yourself and the target.  The oath may be any of those Binding Oaths listed below.  If either one of you, or both of you, break this oath, you suffer 5d10 force damage and the oath is ended only for the one that broke it.  This oath lasts until the next dawn, until the oath-bound are on different planes of existence, or until one of the oath-bound is unconscious before it is fulfilled.  You may have multiple Oath of Restrictions against only a single creature at a time.
+As an action, make an unarmed strike against a creature.  You may roll damage as normal, but this strike does not count as an Attack.  If this strike hits the target, you may expend 4 ki points to swear an oath upon yourself and the target.  The oath may be any of those Binding Oaths listed below.  If either oath-bound break this oath, you suffer 5d10 force damage and the oath is ended only for the one that broke it.  This oath lasts until the next dawn, until the oath-bound are on different planes of existence, or until one of the oath-bound is unconscious before it is fulfilled.  You may have multiple Oath of Restrictions against only a single creature at a time.
 
 #### Binding Oath of Dueling
-While both of you are conscious, any attack against a creature not oath-bound is forbidden.
+Any attack against a creature not oath-bound is forbidden.
 
 #### Binding Oath of Courage
 Any movement that is not forced movement which increases the distance between the oath-bound is forbidden.
