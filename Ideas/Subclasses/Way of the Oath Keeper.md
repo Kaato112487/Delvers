@@ -19,4 +19,4 @@ While the oath is sworn, if you hit the target creature with an attack that deal
 
 ## Oath of Truth
 ##### *6th-level Way of the Oath Keeper feature*
-When hearing any statement you can understand, you can swear to the veracity of that statement.  
+When hearing any statement you can understand, you can swear to the veracity of that statement.  As a creature makes a statement, you may declare it to either be true or false.  The creature must make a Wisdom saving throw against your Ki save DC.  If the creature fails this saving throw and the truth of the statement, from the perspective of the creature, does not match your assertion, you take damage equal to your martial arts die.  If the creature succeeds in the saving throw or the statement does match the truth of your assertion, nothing happens.  You cannot swear an oath on a single statement multiple times.
