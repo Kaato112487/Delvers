@@ -19,4 +19,21 @@ While the oath is sworn, if you hit the target creature with an attack that deal
 
 ## Oath of Truth
 ##### *6th-level Way of the Oath Keeper feature*
-When hearing any statement you can understand, you can swear to the veracity of that statement.  As a creature makes a statement, you may declare it to either be true or false.  The creature must make a Wisdom saving throw against your Ki save DC.  If the creature fails this saving throw and the truth of the statement, from the perspective of the creature, does not match your assertion, you take damage equal to your martial arts die.  If the creature succeeds in the saving throw or the statement does match the truth of your assertion, nothing happens.  You cannot swear an oath on a single statement multiple times.
+When hearing any statement you can understand, you can swear to the veracity of that statement.  After a creature makes a statement, you may declare it to either be true or false.  The creature must make a Wisdom saving throw against your Ki save DC.  If the creature fails this saving throw and the truth of the statement, from the perspective of the creature, does not match your assertion, you take damage equal to your martial arts die.  If the creature succeeds in the saving throw or the statement does match the truth of your assertion, nothing happens.  You cannot swear an oath on a single statement multiple times.
+
+## Oath of Restriction
+##### *11th-level Way of the Oath Keeper feature*
+As an action, make an unarmed strike against a creature.  You may roll damage as normal, but this strike does not count as an Attack.  If this strike hits the target, you may expend 3 ki points to swear an oath upon yourself and the target.  The oath may be any of those listed below.  If either one of you, or both of you, break this oath, you suffer 5d10 force damage and the oath is ended only for the one that broke it.  This oath lasts until the next dawn before it harmlessly fades away.  You may have multiple Oath of Restrictions against a single creature at a time.
+
+#### Oath of Dueling
+While both of you are conscious, any attack against a creature not bound by the oath is forbidden.
+
+#### Oath of Courage
+Any movement that is not forced movement which increases the distance between you is forbidden.
+
+#### Oath of Simplicity
+Casting any spell or using any class feature is forbidden.
+
+#### Oath of Attrition
+At the start of each of your turns, you and the target both suffer the same damage equal to your martial arts die.  Being healed by any source is forbidden.
+
